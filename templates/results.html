@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFL Stats Showdown — Results</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <div class="results-container">
+        <div class="results-card">
+            <div class="results-glow"></div>
+            <div class="results-emoji" id="results-emoji">🏈</div>
+            <h1 class="results-title">Game Over!</h1>
+
+            <div class="results-score-ring">
+                <svg viewBox="0 0 120 120" class="score-ring-svg">
+                    <circle cx="60" cy="60" r="52" class="ring-bg"></circle>
+                    <circle cx="60" cy="60" r="52" class="ring-fill" id="ring-fill" stroke-dasharray="326.73"
+                        stroke-dashoffset="326.73"></circle>
+                </svg>
+                <div class="ring-content">
+                    <div class="ring-score" id="ring-score">0</div>
+                    <div class="ring-total">/ {{ total }}</div>
+                </div>
+            </div>
+
+            <div class="results-percentage" id="results-percentage">{{ percentage }}%</div>
+
+            <div class="results-grade grade-{{ grade|lower }}" id="results-grade">
+                Grade: {{ grade }}
+            </div>
+
+            <div class="results-message" id="results-message">
+                {% if percentage >= 90 %}
+                🏆 Outstanding! You're an NFL stats guru!
+                {% elif percentage >= 70 %}
+                💪 Great job! You really know your football!
+                {% elif percentage >= 50 %}
+                👍 Not bad! Keep studying those stats!
+                {% else %}
+                📖 Time to brush up on your NFL knowledge!
+                {% endif %}
+            </div>
+
+            <a href="/" class="btn-play-again">Play Again</a>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var score = parseInt("{{ score }}");
+            var total = parseInt("{{ total }}");
+            var percentage = parseInt("{{ percentage }}");
+            var ring = document.getElementById("ring-fill");
+            var scoreEl = document.getElementById("ring-score");
+            var circumference = 2 * Math.PI * 52;
+
+            setTimeout(function () {
+                var offset = circumference - (circumference * percentage / 100);
+                ring.style.strokeDashoffset = offset;
+            }, 300);
+
+            var current = 0;
+            var duration = 1500;
+            var step = score > 0 ? duration / score : duration;
+            var counter = setInterval(function () {
+                current++;
+                scoreEl.textContent = current;
+                if (current >= score) clearInterval(counter);
+            }, step);
+
+            var emoji = document.getElementById("results-emoji");
+            if (percentage >= 90) emoji.textContent = "🏆";
+            else if (percentage >= 70) emoji.textContent = "🌟";
+            else if (percentage >= 50) emoji.textContent = "👍";
+            else emoji.textContent = "💪";
+        });
+    </script>
+</body>
+
+</html>

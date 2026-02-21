@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFL Stats Showdown — Quiz</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <div class="quiz-container">
+        <!-- Top bar -->
+        <div class="quiz-topbar">
+            <div class="quiz-progress-info">
+                <span id="question-counter">Question 1 of {{ total }}</span>
+                <span id="score-display" class="score-badge">Score: 0</span>
+            </div>
+            <div class="progress-bar-track">
+                <div class="progress-bar-fill" id="progress-bar" style="width: 0%"></div>
+            </div>
+        </div>
+
+        <!-- Question area -->
+        <div class="question-area" id="question-area">
+            <h2 class="question-text" id="question-text">Loading...</h2>
+
+            <div class="players-grid">
+                <!-- Player 1 -->
+                <div class="player-card" id="card-1" onclick="submitAnswer(1)">
+                    <div class="card-inner">
+                        <div class="card-front">
+                            <div class="player-img-wrapper">
+                                <img id="player1-img" src="" alt="Player 1" class="player-img"
+                                    onerror="this.src='https://a.espncdn.com/combiner/i?img=/i/headshots/nophoto.png&w=350&h=254'">
+                            </div>
+                            <div class="player-name" id="player1-name">—</div>
+                            <div class="player-team" id="player1-team">—</div>
+                        </div>
+                        <div class="card-result" id="result-1">
+                            <div class="result-value" id="value-1">—</div>
+                            <div class="result-label" id="label-1">—</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- VS badge -->
+                <div class="vs-badge">VS</div>
+
+                <!-- Player 2 -->
+                <div class="player-card" id="card-2" onclick="submitAnswer(2)">
+                    <div class="card-inner">
+                        <div class="card-front">
+                            <div class="player-img-wrapper">
+                                <img id="player2-img" src="" alt="Player 2" class="player-img"
+                                    onerror="this.src='https://a.espncdn.com/combiner/i?img=/i/headshots/nophoto.png&w=350&h=254'">
+                            </div>
+                            <div class="player-name" id="player2-name">—</div>
+                            <div class="player-team" id="player2-team">—</div>
+                        </div>
+                        <div class="card-result" id="result-2">
+                            <div class="result-value" id="value-2">—</div>
+                            <div class="result-label" id="label-2">—</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Feedback banner -->
+            <div class="feedback-banner" id="feedback-banner">
+                <span id="feedback-icon"></span>
+                <span id="feedback-text"></span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const TOTAL_QUESTIONS = {{ total }};
+    </script>
+    <script src="/static/script.js"></script>
+</body>
+
+</html>

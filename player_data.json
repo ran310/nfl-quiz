@@ -1,0 +1,5992 @@
+[
+  {
+    "id": "4373626",
+    "name": "Tyler Allgeier",
+    "position": "RB",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373626.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 137.0,
+      "rushingTouchdowns": 3.0,
+      "rushingYards": 644.0,
+      "rushingYardsPerGame": 37.882354736328125,
+      "yardsPerRushAttempt": 4.701000213623047
+    }
+  },
+  {
+    "id": "4369886",
+    "name": "Chris Blair",
+    "position": "WR",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4369886.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 2.0,
+      "receivingYards": 17.0,
+      "receptions": 1.0,
+      "yardsPerReception": 17.0
+    }
+  },
+  {
+    "id": "14880",
+    "name": "Kirk Cousins",
+    "position": "QB",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/14880.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 66.88700103759766,
+      "completions": 303.0,
+      "interceptions": 16.0,
+      "passingTouchdowns": 18.0,
+      "passingYards": 3508.0,
+      "QBRating": 88.61799621582031
+    }
+  },
+  {
+    "id": "4363551",
+    "name": "Dylan Drummond",
+    "position": "WR",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4363551.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 7.0,
+      "receivingYards": 22.0,
+      "receptions": 6.0,
+      "yardsPerReception": 3.6670000553131104
+    }
+  },
+  {
+    "id": "4689334",
+    "name": "Malik Heath",
+    "position": "WR",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4689334.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 13.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 97.0,
+      "receptions": 10.0,
+      "yardsPerReception": 9.699999809265137
+    }
+  },
+  {
+    "id": "3047876",
+    "name": "KhaDarel Hodge",
+    "position": "WR",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3047876.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 12.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 131.0,
+      "receptions": 7.0,
+      "yardsPerReception": 18.714000701904297
+    }
+  },
+  {
+    "id": "4426502",
+    "name": "Drake London",
+    "position": "WR",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426502.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 158.0,
+      "receivingTouchdowns": 9.0,
+      "receivingYards": 1271.0,
+      "receptions": 100.0,
+      "yardsPerReception": 12.710000038146973
+    }
+  },
+  {
+    "id": "4040655",
+    "name": "Darnell Mooney",
+    "position": "WR",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4040655.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 106.0,
+      "receivingTouchdowns": 5.0,
+      "receivingYards": 992.0,
+      "receptions": 64.0,
+      "yardsPerReception": 15.5
+    }
+  },
+  {
+    "id": "4360423",
+    "name": "Michael Penix Jr.",
+    "position": "QB",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360423.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 58.095001220703125,
+      "completions": 61.0,
+      "interceptions": 3.0,
+      "passingTouchdowns": 3.0,
+      "passingYards": 775.0,
+      "QBRating": 78.86900329589844
+    }
+  },
+  {
+    "id": "4430807",
+    "name": "Bijan Robinson",
+    "position": "RB",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430807.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 304.0,
+      "rushingTouchdowns": 14.0,
+      "rushingYards": 1456.0,
+      "rushingYardsPerGame": 85.64705657958984,
+      "yardsPerRushAttempt": 4.789000034332275
+    }
+  },
+  {
+    "id": "3871102",
+    "name": "David Sills V",
+    "position": "WR",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3871102.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 4.0,
+      "receivingYards": 53.0,
+      "receptions": 4.0,
+      "yardsPerReception": 13.25
+    }
+  },
+  {
+    "id": "3120590",
+    "name": "Easton Stick",
+    "position": "QB",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3120590.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 45.45500183105469,
+      "completions": 25.0,
+      "interceptions": 3.0,
+      "passingTouchdowns": 1.0,
+      "passingYards": 303.0,
+      "QBRating": 46.25
+    }
+  },
+  {
+    "id": "4374187",
+    "name": "Deven Thompkins",
+    "position": "WR",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4374187.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 4.0,
+      "receivingYards": 20.0,
+      "receptions": 4.0,
+      "yardsPerReception": 5.0
+    }
+  },
+  {
+    "id": "4428796",
+    "name": "Casey Washington",
+    "position": "WR",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428796.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 2.0,
+      "receivingYards": 14.0,
+      "receptions": 1.0,
+      "yardsPerReception": 14.0
+    }
+  },
+  {
+    "id": "4248425",
+    "name": "Carlos Washington Jr.",
+    "position": "RB",
+    "team": "Falcons",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4248425.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 29.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 71.0,
+      "rushingYardsPerGame": 23.66666603088379,
+      "yardsPerRushAttempt": 2.447999954223633
+    }
+  },
+  {
+    "id": "4429202",
+    "name": "Israel Abanikanda",
+    "position": "RB",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429202.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 21.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 129.0,
+      "rushingYardsPerGame": 43.0,
+      "yardsPerRushAttempt": 6.14300012588501
+    }
+  },
+  {
+    "id": "3121410",
+    "name": "Parris Campbell",
+    "position": "WR",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3121410.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 8.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 30.0,
+      "receptions": 6.0,
+      "yardsPerReception": 5.0
+    }
+  },
+  {
+    "id": "4240603",
+    "name": "Malik Davis",
+    "position": "RB",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240603.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 18.0,
+      "rushingYards": 60.0,
+      "rushingYardsPerGame": 20.0,
+      "yardsPerRushAttempt": 3.3329999446868896
+    }
+  },
+  {
+    "id": "5083754",
+    "name": "Ryan Flournoy",
+    "position": "WR",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5083754.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 14.0,
+      "receivingYards": 102.0,
+      "receptions": 10.0,
+      "yardsPerReception": 10.199999809265137
+    }
+  },
+  {
+    "id": "3115252",
+    "name": "Will Grier",
+    "position": "QB",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3115252.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.63600158691406,
+      "completions": 7.0,
+      "passingYards": 51.0,
+      "QBRating": 74.43199920654297
+    }
+  },
+  {
+    "id": "4241389",
+    "name": "CeeDee Lamb",
+    "position": "WR",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241389.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 152.0,
+      "receivingTouchdowns": 6.0,
+      "receivingYards": 1194.0,
+      "receptions": 101.0,
+      "yardsPerReception": 11.821999549865723
+    }
+  },
+  {
+    "id": "4383396",
+    "name": "Hunter Luepke",
+    "position": "RB",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4383396.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 12.0,
+      "rushingYards": 38.0,
+      "rushingYardsPerGame": 2.375,
+      "yardsPerRushAttempt": 3.1670000553131104
+    }
+  },
+  {
+    "id": "4360698",
+    "name": "Joe Milton III",
+    "position": "QB",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360698.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 75.86199951171875,
+      "completions": 22.0,
+      "passingTouchdowns": 1.0,
+      "passingYards": 241.0,
+      "QBRating": 111.4219970703125
+    }
+  },
+  {
+    "id": "4426485",
+    "name": "Jonathan Mingo",
+    "position": "WR",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426485.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 42.0,
+      "receivingYards": 167.0,
+      "receptions": 17.0,
+      "yardsPerReception": 9.824000358581543
+    }
+  },
+  {
+    "id": "2577417",
+    "name": "Dak Prescott",
+    "position": "QB",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2577417.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 64.68499755859375,
+      "completions": 185.0,
+      "interceptions": 8.0,
+      "passingTouchdowns": 11.0,
+      "passingYards": 1978.0,
+      "QBRating": 85.97000122070312
+    }
+  },
+  {
+    "id": "4426354",
+    "name": "George Pickens",
+    "position": "WR",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426354.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 103.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 900.0,
+      "receptions": 59.0,
+      "yardsPerReception": 15.253999710083008
+    }
+  },
+  {
+    "id": "4045163",
+    "name": "Miles Sanders",
+    "position": "RB",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4045163.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 55.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 205.0,
+      "rushingYardsPerGame": 18.636363983154297,
+      "yardsPerRushAttempt": 3.7269999980926514
+    }
+  },
+  {
+    "id": "4249417",
+    "name": "Jalen Tolbert",
+    "position": "WR",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4249417.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 79.0,
+      "receivingTouchdowns": 7.0,
+      "receivingYards": 610.0,
+      "receptions": 49.0,
+      "yardsPerReception": 12.449000358581543
+    }
+  },
+  {
+    "id": "3676833",
+    "name": "KaVontae Turpin",
+    "position": "WR",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3676833.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 52.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 420.0,
+      "receptions": 31.0,
+      "yardsPerReception": 13.54800033569336
+    }
+  },
+  {
+    "id": "4361579",
+    "name": "Javonte Williams",
+    "position": "RB",
+    "team": "Cowboys",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361579.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 139.0,
+      "rushingTouchdowns": 4.0,
+      "rushingYards": 513.0,
+      "rushingYardsPerGame": 30.176469802856445,
+      "yardsPerRushAttempt": 3.690999984741211
+    }
+  },
+  {
+    "id": "3918298",
+    "name": "Josh Allen",
+    "position": "QB",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.56100082397461,
+      "completions": 307.0,
+      "interceptions": 6.0,
+      "passingTouchdowns": 28.0,
+      "passingYards": 3731.0,
+      "QBRating": 101.38500213623047
+    }
+  },
+  {
+    "id": "4039034",
+    "name": "Shane Buechele",
+    "position": "QB",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039034.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 60.0,
+      "completions": 6.0,
+      "interceptions": 1.0,
+      "passingYards": 53.0,
+      "QBRating": 34.58300018310547
+    }
+  },
+  {
+    "id": "4379399",
+    "name": "James Cook III",
+    "position": "RB",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 207.0,
+      "rushingTouchdowns": 16.0,
+      "rushingYards": 1009.0,
+      "rushingYardsPerGame": 63.0625,
+      "yardsPerRushAttempt": 4.874000072479248
+    }
+  },
+  {
+    "id": "4243537",
+    "name": "Gabe Davis",
+    "position": "WR",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243537.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 42.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 239.0,
+      "receptions": 20.0,
+      "yardsPerReception": 11.949999809265137
+    }
+  },
+  {
+    "id": "16731",
+    "name": "Brandin Cooks",
+    "position": "WR",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/16731.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 54.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 259.0,
+      "receptions": 26.0,
+      "yardsPerReception": 9.961999893188477
+    }
+  },
+  {
+    "id": "4635008",
+    "name": "Keon Coleman",
+    "position": "WR",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4635008.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 57.0,
+      "receivingTouchdowns": 4.0,
+      "receivingYards": 556.0,
+      "receptions": 29.0,
+      "yardsPerReception": 19.172000885009766
+    }
+  },
+  {
+    "id": "4429501",
+    "name": "Ray Davis",
+    "position": "RB",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 113.0,
+      "rushingTouchdowns": 3.0,
+      "rushingYards": 442.0,
+      "rushingYardsPerGame": 26.0,
+      "yardsPerRushAttempt": 3.9119999408721924
+    }
+  },
+  {
+    "id": "4429805",
+    "name": "Frank Gore Jr.",
+    "position": "RB",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429805.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 33.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 163.0,
+      "rushingYardsPerGame": 54.33333206176758,
+      "yardsPerRushAttempt": 4.939000129699707
+    }
+  },
+  {
+    "id": "4035004",
+    "name": "Mecole Hardman Jr.",
+    "position": "WR",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035004.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 14.0,
+      "receivingYards": 90.0,
+      "receptions": 12.0,
+      "yardsPerReception": 7.5
+    }
+  },
+  {
+    "id": "3915411",
+    "name": "Ty Johnson",
+    "position": "RB",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 41.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 213.0,
+      "rushingYardsPerGame": 12.529411315917969,
+      "yardsPerRushAttempt": 5.195000171661377
+    }
+  },
+  {
+    "id": "4242433",
+    "name": "Joshua Palmer",
+    "position": "WR",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242433.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 65.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 584.0,
+      "receptions": 39.0,
+      "yardsPerReception": 14.973999977111816
+    }
+  },
+  {
+    "id": "3121427",
+    "name": "Curtis Samuel",
+    "position": "WR",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3121427.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 46.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 253.0,
+      "receptions": 31.0,
+      "yardsPerReception": 8.16100025177002
+    }
+  },
+  {
+    "id": "4373678",
+    "name": "Khalil Shakir",
+    "position": "WR",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 100.0,
+      "receivingTouchdowns": 4.0,
+      "receivingYards": 821.0,
+      "receptions": 76.0,
+      "yardsPerReception": 10.803000450134277
+    }
+  },
+  {
+    "id": "4241476",
+    "name": "Tyrell Shavers",
+    "position": "WR",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241476.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 1.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 69.0,
+      "receptions": 1.0,
+      "yardsPerReception": 69.0
+    }
+  },
+  {
+    "id": "3039707",
+    "name": "Mitchell Trubisky",
+    "position": "QB",
+    "team": "Bills",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3039707.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 73.0770034790039,
+      "completions": 19.0,
+      "passingTouchdowns": 2.0,
+      "passingYards": 179.0,
+      "QBRating": 117.30799865722656
+    }
+  },
+  {
+    "id": "4362238",
+    "name": "Chase Brown",
+    "position": "RB",
+    "team": "Bengals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362238.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 229.0,
+      "rushingTouchdowns": 7.0,
+      "rushingYards": 990.0,
+      "rushingYardsPerGame": 61.875,
+      "yardsPerRushAttempt": 4.322999954223633
+    }
+  },
+  {
+    "id": "3886812",
+    "name": "Jake Browning",
+    "position": "QB",
+    "team": "Bengals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3886812.png",
+    "season": 2024,
+    "stats": {
+      "QBRating": 39.58300018310547
+    }
+  },
+  {
+    "id": "3915511",
+    "name": "Joe Burrow",
+    "position": "QB",
+    "team": "Bengals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915511.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 70.552001953125,
+      "completions": 460.0,
+      "interceptions": 9.0,
+      "passingTouchdowns": 43.0,
+      "passingYards": 4918.0,
+      "QBRating": 108.53800201416016
+    }
+  },
+  {
+    "id": "4362628",
+    "name": "Ja'Marr Chase",
+    "position": "WR",
+    "team": "Bengals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362628.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 175.0,
+      "receivingTouchdowns": 17.0,
+      "receivingYards": 1708.0,
+      "receptions": 127.0,
+      "yardsPerReception": 13.449000358581543
+    }
+  },
+  {
+    "id": "4259592",
+    "name": "Sean Clifford",
+    "position": "QB",
+    "team": "Bengals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259592.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 51.16299819946289,
+      "completions": 22.0,
+      "interceptions": 1.0,
+      "passingTouchdowns": 1.0,
+      "passingYards": 207.0,
+      "QBRating": 62.8390007019043
+    }
+  },
+  {
+    "id": "11252",
+    "name": "Joe Flacco",
+    "position": "QB",
+    "team": "Bengals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/11252.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 65.322998046875,
+      "completions": 162.0,
+      "interceptions": 7.0,
+      "passingTouchdowns": 12.0,
+      "passingYards": 1761.0,
+      "QBRating": 90.4739990234375
+    }
+  },
+  {
+    "id": "4239993",
+    "name": "Tee Higgins",
+    "position": "WR",
+    "team": "Bengals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4239993.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 109.0,
+      "receivingTouchdowns": 10.0,
+      "receivingYards": 911.0,
+      "receptions": 73.0,
+      "yardsPerReception": 12.479000091552734
+    }
+  },
+  {
+    "id": "4368003",
+    "name": "Andrei Iosivas",
+    "position": "WR",
+    "team": "Bengals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4368003.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 61.0,
+      "receivingTouchdowns": 6.0,
+      "receivingYards": 479.0,
+      "receptions": 36.0,
+      "yardsPerReception": 13.305999755859375
+    }
+  },
+  {
+    "id": "4385430",
+    "name": "Xavier Johnson",
+    "position": "WR",
+    "team": "Bengals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4385430.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 3.0,
+      "receivingYards": 27.0,
+      "receptions": 3.0,
+      "yardsPerReception": 9.0
+    }
+  },
+  {
+    "id": "4257188",
+    "name": "Charlie Jones",
+    "position": "WR",
+    "team": "Bengals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4257188.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 1.0,
+      "receivingYards": 5.0,
+      "receptions": 1.0,
+      "yardsPerReception": 5.0
+    }
+  },
+  {
+    "id": "3116389",
+    "name": "Samaje Perine",
+    "position": "RB",
+    "team": "Bengals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116389.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 20.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 92.0,
+      "rushingYardsPerGame": 5.411764621734619,
+      "yardsPerRushAttempt": 4.599999904632568
+    }
+  },
+  {
+    "id": "4035776",
+    "name": "Kendric Pryor",
+    "position": "WR",
+    "team": "Bengals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035776.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 1.0,
+      "receivingYards": 9.0,
+      "receptions": 1.0,
+      "yardsPerReception": 9.0
+    }
+  },
+  {
+    "id": "4690070",
+    "name": "Mitchell Tinsley",
+    "position": "WR",
+    "team": "Bengals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4690070.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 13.0,
+      "receivingYards": 45.0,
+      "receptions": 6.0,
+      "yardsPerReception": 7.5
+    }
+  },
+  {
+    "id": "4434153",
+    "name": "Tyson Bagent",
+    "position": "QB",
+    "team": "Bears",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4434153.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 100.0,
+      "completions": 2.0,
+      "passingYards": 11.0,
+      "QBRating": 89.58300018310547
+    }
+  },
+  {
+    "id": "4036032",
+    "name": "Brittain Brown",
+    "position": "RB",
+    "team": "Bears",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036032.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 7.0,
+      "rushingYards": 25.0,
+      "rushingYardsPerGame": 8.333333015441895,
+      "yardsPerRushAttempt": 3.571000099182129
+    }
+  },
+  {
+    "id": "4039050",
+    "name": "Devin Duvernay",
+    "position": "WR",
+    "team": "Bears",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039050.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 16.0,
+      "receivingYards": 79.0,
+      "receptions": 11.0,
+      "yardsPerReception": 7.182000160217285
+    }
+  },
+  {
+    "id": "4037457",
+    "name": "Travis Homer",
+    "position": "RB",
+    "team": "Bears",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037457.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 6.0,
+      "rushingYards": 23.0,
+      "rushingYardsPerGame": 2.299999952316284,
+      "yardsPerRushAttempt": 3.8329999446868896
+    }
+  },
+  {
+    "id": "4426386",
+    "name": "Roschon Johnson",
+    "position": "RB",
+    "team": "Bears",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426386.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 55.0,
+      "rushingTouchdowns": 6.0,
+      "rushingYards": 150.0,
+      "rushingYardsPerGame": 10.714285850524902,
+      "yardsPerRushAttempt": 2.7269999980926514
+    }
+  },
+  {
+    "id": "15168",
+    "name": "Case Keenum",
+    "position": "QB",
+    "team": "Bears",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/15168.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.888999938964844,
+      "completions": 23.0,
+      "passingTouchdowns": 2.0,
+      "passingYards": 223.0,
+      "QBRating": 99.65299987792969
+    }
+  },
+  {
+    "id": "3915416",
+    "name": "DJ Moore",
+    "position": "WR",
+    "team": "Bears",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 140.0,
+      "receivingTouchdowns": 6.0,
+      "receivingYards": 966.0,
+      "receptions": 98.0,
+      "yardsPerReception": 9.857000350952148
+    }
+  },
+  {
+    "id": "4431299",
+    "name": "Rome Odunze",
+    "position": "WR",
+    "team": "Bears",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431299.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 101.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 734.0,
+      "receptions": 54.0,
+      "yardsPerReception": 13.593000411987305
+    }
+  },
+  {
+    "id": "4259545",
+    "name": "D'Andre Swift",
+    "position": "RB",
+    "team": "Bears",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259545.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 253.0,
+      "rushingTouchdowns": 6.0,
+      "rushingYards": 959.0,
+      "rushingYardsPerGame": 56.411766052246094,
+      "yardsPerRushAttempt": 3.7909998893737793
+    }
+  },
+  {
+    "id": "4431611",
+    "name": "Caleb Williams",
+    "position": "QB",
+    "team": "Bears",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431611.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 62.45600128173828,
+      "completions": 351.0,
+      "interceptions": 6.0,
+      "passingTouchdowns": 20.0,
+      "passingYards": 3541.0,
+      "QBRating": 87.7969970703125
+    }
+  },
+  {
+    "id": "3917914",
+    "name": "Olamide Zaccheaus",
+    "position": "WR",
+    "team": "Bears",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917914.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 64.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 506.0,
+      "receptions": 45.0,
+      "yardsPerReception": 11.244000434875488
+    }
+  },
+  {
+    "id": "2580216",
+    "name": "DeAndre Carter",
+    "position": "WR",
+    "team": "Browns",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2580216.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 14.0,
+      "receivingYards": 72.0,
+      "receptions": 9.0,
+      "yardsPerReception": 8.0
+    }
+  },
+  {
+    "id": "4613104",
+    "name": "Malachi Corley",
+    "position": "WR",
+    "team": "Browns",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4613104.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 6.0,
+      "receivingYards": 16.0,
+      "receptions": 3.0,
+      "yardsPerReception": 5.333000183105469
+    }
+  },
+  {
+    "id": "4372019",
+    "name": "Jerome Ford",
+    "position": "RB",
+    "team": "Browns",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372019.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 104.0,
+      "rushingTouchdowns": 3.0,
+      "rushingYards": 565.0,
+      "rushingYardsPerGame": 40.35714340209961,
+      "yardsPerRushAttempt": 5.433000087738037
+    }
+  },
+  {
+    "id": "4241463",
+    "name": "Jerry Jeudy",
+    "position": "WR",
+    "team": "Browns",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241463.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 145.0,
+      "receivingTouchdowns": 4.0,
+      "receivingYards": 1229.0,
+      "receptions": 90.0,
+      "yardsPerReception": 13.656000137329102
+    }
+  },
+  {
+    "id": "4428678",
+    "name": "Jamari Thrash",
+    "position": "WR",
+    "team": "Browns",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428678.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 7.0,
+      "receivingYards": 22.0,
+      "receptions": 3.0,
+      "yardsPerReception": 7.333000183105469
+    }
+  },
+  {
+    "id": "4369863",
+    "name": "Cedric Tillman",
+    "position": "WR",
+    "team": "Browns",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4369863.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 49.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 339.0,
+      "receptions": 29.0,
+      "yardsPerReception": 11.6899995803833
+    }
+  },
+  {
+    "id": "3122840",
+    "name": "Deshaun Watson",
+    "position": "QB",
+    "team": "Browns",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122840.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.42599868774414,
+      "completions": 137.0,
+      "interceptions": 3.0,
+      "passingTouchdowns": 5.0,
+      "passingYards": 1148.0,
+      "QBRating": 79.01200103759766
+    }
+  },
+  {
+    "id": "4576845",
+    "name": "Isaiah Wooden",
+    "position": "WR",
+    "team": "Browns",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4576845.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 1.0,
+      "receivingYards": 2.0,
+      "receptions": 1.0,
+      "yardsPerReception": 2.0
+    }
+  },
+  {
+    "id": "4362748",
+    "name": "Tyler Badie",
+    "position": "RB",
+    "team": "Broncos",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362748.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 11.0,
+      "rushingYards": 86.0,
+      "rushingYardsPerGame": 28.66666603088379,
+      "yardsPerRushAttempt": 7.817999839782715
+    }
+  },
+  {
+    "id": "4034704",
+    "name": "Michael Bandy",
+    "position": "WR",
+    "team": "Broncos",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4034704.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 6.0,
+      "receivingYards": 48.0,
+      "receptions": 3.0,
+      "yardsPerReception": 16.0
+    }
+  },
+  {
+    "id": "4241985",
+    "name": "J.K. Dobbins",
+    "position": "RB",
+    "team": "Broncos",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241985.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 195.0,
+      "rushingTouchdowns": 9.0,
+      "rushingYards": 905.0,
+      "rushingYardsPerGame": 69.61538696289062,
+      "yardsPerRushAttempt": 4.640999794006348
+    }
+  },
+  {
+    "id": "4241820",
+    "name": "Sam Ehlinger",
+    "position": "QB",
+    "team": "Broncos",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241820.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 65.38500213623047,
+      "completions": 17.0,
+      "interceptions": 1.0,
+      "passingYards": 166.0,
+      "QBRating": 67.14700317382812
+    }
+  },
+  {
+    "id": "4431280",
+    "name": "Troy Franklin",
+    "position": "WR",
+    "team": "Broncos",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431280.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 53.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 263.0,
+      "receptions": 28.0,
+      "yardsPerReception": 9.392999649047852
+    }
+  },
+  {
+    "id": "4039057",
+    "name": "Lil'Jordan Humphrey",
+    "position": "WR",
+    "team": "Broncos",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039057.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 45.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 293.0,
+      "receptions": 31.0,
+      "yardsPerReception": 9.45199966430664
+    }
+  },
+  {
+    "id": "4722893",
+    "name": "Jaleel McLaughlin",
+    "position": "RB",
+    "team": "Broncos",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4722893.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 113.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 496.0,
+      "rushingYardsPerGame": 31.0,
+      "yardsPerRushAttempt": 4.388999938964844
+    }
+  },
+  {
+    "id": "4686472",
+    "name": "Marvin Mims Jr.",
+    "position": "WR",
+    "team": "Broncos",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4686472.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 52.0,
+      "receivingTouchdowns": 6.0,
+      "receivingYards": 503.0,
+      "receptions": 39.0,
+      "yardsPerReception": 12.897000312805176
+    }
+  },
+  {
+    "id": "4426338",
+    "name": "Bo Nix",
+    "position": "QB",
+    "team": "Broncos",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426338.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 66.31400299072266,
+      "completions": 376.0,
+      "interceptions": 12.0,
+      "passingTouchdowns": 29.0,
+      "passingYards": 3775.0,
+      "QBRating": 93.31600189208984
+    }
+  },
+  {
+    "id": "4391845",
+    "name": "Cody Schrader",
+    "position": "RB",
+    "team": "Broncos",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4391845.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 1.0,
+      "rushingYards": 3.0,
+      "rushingYardsPerGame": 3.0,
+      "yardsPerRushAttempt": 3.0
+    }
+  },
+  {
+    "id": "3892775",
+    "name": "Jarrett Stidham",
+    "position": "QB",
+    "team": "Broncos",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3892775.png",
+    "season": 2024,
+    "stats": {
+      "QBRating": 39.58300018310547
+    }
+  },
+  {
+    "id": "3128429",
+    "name": "Courtland Sutton",
+    "position": "WR",
+    "team": "Broncos",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3128429.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 135.0,
+      "receivingTouchdowns": 8.0,
+      "receivingYards": 1081.0,
+      "receptions": 81.0,
+      "yardsPerReception": 13.345999717712402
+    }
+  },
+  {
+    "id": "4431453",
+    "name": "Deuce Vaughn",
+    "position": "RB",
+    "team": "Broncos",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431453.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 17.0,
+      "rushingYards": 70.0,
+      "rushingYardsPerGame": 10.0,
+      "yardsPerRushAttempt": 4.118000030517578
+    }
+  },
+  {
+    "id": "3115293",
+    "name": "Kyle Allen",
+    "position": "QB",
+    "team": "Lions",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3115293.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 100.0,
+      "completions": 1.0,
+      "passingYards": 19.0,
+      "QBRating": 118.75
+    }
+  },
+  {
+    "id": "4240069",
+    "name": "Malik Cunningham",
+    "position": "WR",
+    "team": "Lions",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240069.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 5.0,
+      "receivingYards": 34.0,
+      "receptions": 4.0,
+      "yardsPerReception": 8.5
+    }
+  },
+  {
+    "id": "4429795",
+    "name": "Jahmyr Gibbs",
+    "position": "RB",
+    "team": "Lions",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429795.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 250.0,
+      "rushingTouchdowns": 16.0,
+      "rushingYards": 1412.0,
+      "rushingYardsPerGame": 83.05882263183594,
+      "yardsPerRushAttempt": 5.6479997634887695
+    }
+  },
+  {
+    "id": "3046779",
+    "name": "Jared Goff",
+    "position": "QB",
+    "team": "Lions",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3046779.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 72.35600280761719,
+      "completions": 390.0,
+      "interceptions": 12.0,
+      "passingTouchdowns": 37.0,
+      "passingYards": 4629.0,
+      "QBRating": 111.76899719238281
+    }
+  },
+  {
+    "id": "3126997",
+    "name": "Tom Kennedy",
+    "position": "WR",
+    "team": "Lions",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3126997.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 1.0
+    }
+  },
+  {
+    "id": "4035538",
+    "name": "David Montgomery",
+    "position": "RB",
+    "team": "Lions",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035538.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 185.0,
+      "rushingTouchdowns": 12.0,
+      "rushingYards": 775.0,
+      "rushingYardsPerGame": 55.35714340209961,
+      "yardsPerRushAttempt": 4.189000129699707
+    }
+  },
+  {
+    "id": "2973405",
+    "name": "Kalif Raymond",
+    "position": "WR",
+    "team": "Lions",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2973405.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 22.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 215.0,
+      "receptions": 17.0,
+      "yardsPerReception": 12.647000312805176
+    }
+  },
+  {
+    "id": "4432545",
+    "name": "Jabari Small",
+    "position": "RB",
+    "team": "Lions",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432545.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 27.0,
+      "rushingYards": 95.0,
+      "rushingYardsPerGame": 31.66666603088379,
+      "yardsPerRushAttempt": 3.5190000534057617
+    }
+  },
+  {
+    "id": "4374302",
+    "name": "Amon-Ra St. Brown",
+    "position": "WR",
+    "team": "Lions",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4374302.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 141.0,
+      "receivingTouchdowns": 12.0,
+      "receivingYards": 1263.0,
+      "receptions": 115.0,
+      "yardsPerReception": 10.982999801635742
+    }
+  },
+  {
+    "id": "4912274",
+    "name": "Sione Vaki",
+    "position": "RB",
+    "team": "Lions",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4912274.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 6.0,
+      "rushingYards": 14.0,
+      "rushingYardsPerGame": 0.875,
+      "yardsPerRushAttempt": 2.3329999446868896
+    }
+  },
+  {
+    "id": "4426388",
+    "name": "Jameson Williams",
+    "position": "WR",
+    "team": "Lions",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426388.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 91.0,
+      "receivingTouchdowns": 7.0,
+      "receivingYards": 1001.0,
+      "receptions": 58.0,
+      "yardsPerReception": 17.259000778198242
+    }
+  },
+  {
+    "id": "3149687",
+    "name": "Chris Brooks",
+    "position": "RB",
+    "team": "Packers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3149687.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 36.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 183.0,
+      "rushingYardsPerGame": 12.199999809265137,
+      "yardsPerRushAttempt": 5.083000183105469
+    }
+  },
+  {
+    "id": "4361432",
+    "name": "Romeo Doubs",
+    "position": "WR",
+    "team": "Packers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361432.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 72.0,
+      "receivingTouchdowns": 4.0,
+      "receivingYards": 601.0,
+      "receptions": 46.0,
+      "yardsPerReception": 13.0649995803833
+    }
+  },
+  {
+    "id": "4047365",
+    "name": "Josh Jacobs",
+    "position": "RB",
+    "team": "Packers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4047365.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 301.0,
+      "rushingTouchdowns": 15.0,
+      "rushingYards": 1329.0,
+      "rushingYardsPerGame": 78.17646789550781,
+      "yardsPerRushAttempt": 4.414999961853027
+    }
+  },
+  {
+    "id": "4429023",
+    "name": "MarShawn Lloyd",
+    "position": "RB",
+    "team": "Packers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429023.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 6.0,
+      "rushingYards": 15.0,
+      "rushingYardsPerGame": 15.0,
+      "yardsPerRushAttempt": 2.5
+    }
+  },
+  {
+    "id": "4036378",
+    "name": "Jordan Love",
+    "position": "QB",
+    "team": "Packers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036378.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.058998107910156,
+      "completions": 268.0,
+      "interceptions": 11.0,
+      "passingTouchdowns": 25.0,
+      "passingYards": 3389.0,
+      "QBRating": 96.68099975585938
+    }
+  },
+  {
+    "id": "4362249",
+    "name": "Jayden Reed",
+    "position": "WR",
+    "team": "Packers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362249.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 75.0,
+      "receivingTouchdowns": 6.0,
+      "receivingYards": 857.0,
+      "receptions": 55.0,
+      "yardsPerReception": 15.581999778747559
+    }
+  },
+  {
+    "id": "4239086",
+    "name": "Desmond Ridder",
+    "position": "QB",
+    "team": "Packers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4239086.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 61.17599868774414,
+      "completions": 52.0,
+      "interceptions": 2.0,
+      "passingTouchdowns": 2.0,
+      "passingYards": 458.0,
+      "QBRating": 73.55400085449219
+    }
+  },
+  {
+    "id": "4249836",
+    "name": "Pierre Strong Jr.",
+    "position": "RB",
+    "team": "Packers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4249836.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 26.0,
+      "rushingYards": 108.0,
+      "rushingYardsPerGame": 7.714285850524902,
+      "yardsPerRushAttempt": 4.1539998054504395
+    }
+  },
+  {
+    "id": "4248528",
+    "name": "Christian Watson",
+    "position": "WR",
+    "team": "Packers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4248528.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 53.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 620.0,
+      "receptions": 29.0,
+      "yardsPerReception": 21.378999710083008
+    }
+  },
+  {
+    "id": "4428850",
+    "name": "Dontayvion Wicks",
+    "position": "WR",
+    "team": "Packers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428850.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 76.0,
+      "receivingTouchdowns": 5.0,
+      "receivingYards": 415.0,
+      "receptions": 39.0,
+      "yardsPerReception": 10.640999794006348
+    }
+  },
+  {
+    "id": "4242512",
+    "name": "Malik Willis",
+    "position": "QB",
+    "team": "Packers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242512.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 74.0739974975586,
+      "completions": 40.0,
+      "passingTouchdowns": 3.0,
+      "passingYards": 550.0,
+      "QBRating": 124.76899719238281
+    }
+  },
+  {
+    "id": "4887558",
+    "name": "Emanuel Wilson",
+    "position": "RB",
+    "team": "Packers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4887558.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 103.0,
+      "rushingTouchdowns": 4.0,
+      "rushingYards": 502.0,
+      "rushingYardsPerGame": 29.52941131591797,
+      "yardsPerRushAttempt": 4.874000072479248
+    }
+  },
+  {
+    "id": "4689988",
+    "name": "Jason Brownlee",
+    "position": "WR",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4689988.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 12.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 47.0,
+      "receptions": 5.0,
+      "yardsPerReception": 9.399999618530273
+    }
+  },
+  {
+    "id": "4241372",
+    "name": "Hollywood Brown",
+    "position": "WR",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241372.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 15.0,
+      "receivingYards": 91.0,
+      "receptions": 9.0,
+      "yardsPerReception": 10.111000061035156
+    }
+  },
+  {
+    "id": "4243322",
+    "name": "Jake Haener",
+    "position": "QB",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243322.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 46.15399932861328,
+      "completions": 18.0,
+      "interceptions": 1.0,
+      "passingTouchdowns": 1.0,
+      "passingYards": 226.0,
+      "QBRating": 62.553001403808594
+    }
+  },
+  {
+    "id": "3059915",
+    "name": "Kareem Hunt",
+    "position": "RB",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3059915.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 200.0,
+      "rushingTouchdowns": 7.0,
+      "rushingYards": 728.0,
+      "rushingYardsPerGame": 56.0,
+      "yardsPerRushAttempt": 3.640000104904175
+    }
+  },
+  {
+    "id": "3139477",
+    "name": "Patrick Mahomes",
+    "position": "QB",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3139477.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 67.47000122070312,
+      "completions": 392.0,
+      "interceptions": 11.0,
+      "passingTouchdowns": 26.0,
+      "passingYards": 3928.0,
+      "QBRating": 93.50599670410156
+    }
+  },
+  {
+    "id": "4038524",
+    "name": "Gardner Minshew",
+    "position": "QB",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4038524.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 66.33999633789062,
+      "completions": 203.0,
+      "interceptions": 10.0,
+      "passingTouchdowns": 9.0,
+      "passingYards": 2013.0,
+      "QBRating": 80.96399688720703
+    }
+  },
+  {
+    "id": "4044111",
+    "name": "Chris Oladokun",
+    "position": "QB",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044111.png",
+    "season": 2024,
+    "stats": {
+      "QBRating": 39.58300018310547
+    }
+  },
+  {
+    "id": "4361529",
+    "name": "Isiah Pacheco",
+    "position": "RB",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361529.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 83.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 310.0,
+      "rushingYardsPerGame": 44.28571319580078,
+      "yardsPerRushAttempt": 3.734999895095825
+    }
+  },
+  {
+    "id": "4360238",
+    "name": "Dameon Pierce",
+    "position": "RB",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360238.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 40.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 293.0,
+      "rushingYardsPerGame": 26.636363983154297,
+      "yardsPerRushAttempt": 7.324999809265137
+    }
+  },
+  {
+    "id": "4372716",
+    "name": "Nikko Remigio",
+    "position": "WR",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372716.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 6.0,
+      "receivingYards": 48.0,
+      "receptions": 2.0,
+      "yardsPerReception": 24.0
+    }
+  },
+  {
+    "id": "4428331",
+    "name": "Rashee Rice",
+    "position": "WR",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428331.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 29.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 288.0,
+      "receptions": 24.0,
+      "yardsPerReception": 12.0
+    }
+  },
+  {
+    "id": "3120348",
+    "name": "JuJu Smith-Schuster",
+    "position": "WR",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3120348.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 26.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 231.0,
+      "receptions": 18.0,
+      "yardsPerReception": 12.833000183105469
+    }
+  },
+  {
+    "id": "4362921",
+    "name": "Tyquan Thornton",
+    "position": "WR",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362921.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 8.0,
+      "receivingYards": 47.0,
+      "receptions": 4.0,
+      "yardsPerReception": 11.75
+    }
+  },
+  {
+    "id": "4683062",
+    "name": "Xavier Worthy",
+    "position": "WR",
+    "team": "Chiefs",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683062.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 98.0,
+      "receivingTouchdowns": 6.0,
+      "receivingYards": 638.0,
+      "receptions": 59.0,
+      "yardsPerReception": 10.814000129699707
+    }
+  },
+  {
+    "id": "2576336",
+    "name": "Ameer Abdullah",
+    "position": "RB",
+    "team": "Colts",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2576336.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 66.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 311.0,
+      "rushingYardsPerGame": 19.4375,
+      "yardsPerRushAttempt": 4.711999893188477
+    }
+  },
+  {
+    "id": "4688813",
+    "name": "Josh Downs",
+    "position": "WR",
+    "team": "Colts",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688813.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 107.0,
+      "receivingTouchdowns": 5.0,
+      "receivingYards": 803.0,
+      "receptions": 72.0,
+      "yardsPerReception": 11.152999877929688
+    }
+  },
+  {
+    "id": "4061956",
+    "name": "Ashton Dulin",
+    "position": "WR",
+    "team": "Colts",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4061956.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 8.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 67.0,
+      "receptions": 2.0,
+      "yardsPerReception": 33.5
+    }
+  },
+  {
+    "id": "4429676",
+    "name": "Tyler Goodson",
+    "position": "RB",
+    "team": "Colts",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429676.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 32.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 153.0,
+      "rushingYardsPerGame": 9.5625,
+      "yardsPerRushAttempt": 4.781000137329102
+    }
+  },
+  {
+    "id": "4429684",
+    "name": "Anthony Gould",
+    "position": "WR",
+    "team": "Colts",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429684.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 1.0,
+      "receivingYards": 23.0,
+      "receptions": 1.0,
+      "yardsPerReception": 23.0
+    }
+  },
+  {
+    "id": "3917792",
+    "name": "Daniel Jones",
+    "position": "QB",
+    "team": "Colts",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917792.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.34299850463867,
+      "completions": 216.0,
+      "interceptions": 7.0,
+      "passingTouchdowns": 8.0,
+      "passingYards": 2070.0,
+      "QBRating": 79.42900085449219
+    }
+  },
+  {
+    "id": "4249030",
+    "name": "D.J. Montgomery",
+    "position": "WR",
+    "team": "Colts",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4249030.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 7.0,
+      "receivingYards": 51.0,
+      "receptions": 3.0,
+      "yardsPerReception": 17.0
+    }
+  },
+  {
+    "id": "4360078",
+    "name": "Alec Pierce",
+    "position": "WR",
+    "team": "Colts",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360078.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 69.0,
+      "receivingTouchdowns": 7.0,
+      "receivingYards": 824.0,
+      "receptions": 37.0,
+      "yardsPerReception": 22.270000457763672
+    }
+  },
+  {
+    "id": "4035687",
+    "name": "Michael Pittman Jr.",
+    "position": "WR",
+    "team": "Colts",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035687.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 111.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 808.0,
+      "receptions": 69.0,
+      "yardsPerReception": 11.710000038146973
+    }
+  },
+  {
+    "id": "4429084",
+    "name": "Anthony Richardson Sr.",
+    "position": "QB",
+    "team": "Colts",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429084.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 47.72700119018555,
+      "completions": 126.0,
+      "interceptions": 12.0,
+      "passingTouchdowns": 8.0,
+      "passingYards": 1814.0,
+      "QBRating": 61.64799880981445
+    }
+  },
+  {
+    "id": "4242335",
+    "name": "Jonathan Taylor",
+    "position": "RB",
+    "team": "Colts",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242335.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 303.0,
+      "rushingTouchdowns": 11.0,
+      "rushingYards": 1431.0,
+      "rushingYardsPerGame": 102.21428680419922,
+      "yardsPerRushAttempt": 4.7230000495910645
+    }
+  },
+  {
+    "id": "2574511",
+    "name": "Brandon Allen",
+    "position": "QB",
+    "team": "Titans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2574511.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 56.66699981689453,
+      "completions": 17.0,
+      "interceptions": 2.0,
+      "passingTouchdowns": 1.0,
+      "passingYards": 199.0,
+      "QBRating": 60.27799987792969
+    }
+  },
+  {
+    "id": "4367567",
+    "name": "Julius Chestnut",
+    "position": "RB",
+    "team": "Titans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4367567.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 22.0,
+      "rushingYards": 102.0,
+      "rushingYardsPerGame": 6.0,
+      "yardsPerRushAttempt": 4.636000156402588
+    }
+  },
+  {
+    "id": "3930066",
+    "name": "Van Jefferson",
+    "position": "WR",
+    "team": "Titans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3930066.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 40.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 276.0,
+      "receptions": 24.0,
+      "yardsPerReception": 11.5
+    }
+  },
+  {
+    "id": "4057082",
+    "name": "Mason Kinsey",
+    "position": "WR",
+    "team": "Titans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4057082.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 2.0,
+      "receivingYards": 17.0,
+      "receptions": 2.0,
+      "yardsPerReception": 8.5
+    }
+  },
+  {
+    "id": "4361418",
+    "name": "Will Levis",
+    "position": "QB",
+    "team": "Titans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361418.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.12300109863281,
+      "completions": 190.0,
+      "interceptions": 12.0,
+      "passingTouchdowns": 13.0,
+      "passingYards": 2091.0,
+      "QBRating": 81.41600036621094
+    }
+  },
+  {
+    "id": "4362617",
+    "name": "Bryce Oliver",
+    "position": "WR",
+    "team": "Titans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362617.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 9.0,
+      "receivingYards": 95.0,
+      "receptions": 6.0,
+      "yardsPerReception": 15.833000183105469
+    }
+  },
+  {
+    "id": "3916148",
+    "name": "Tony Pollard",
+    "position": "RB",
+    "team": "Titans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3916148.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 260.0,
+      "rushingTouchdowns": 5.0,
+      "rushingYards": 1079.0,
+      "rushingYardsPerGame": 67.4375,
+      "yardsPerRushAttempt": 4.150000095367432
+    }
+  },
+  {
+    "id": "3916204",
+    "name": "James Proche II",
+    "position": "WR",
+    "team": "Titans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3916204.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 3.0,
+      "receivingYards": 21.0,
+      "receptions": 3.0,
+      "yardsPerReception": 7.0
+    }
+  },
+  {
+    "id": "3925357",
+    "name": "Calvin Ridley",
+    "position": "WR",
+    "team": "Titans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3925357.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 120.0,
+      "receivingTouchdowns": 4.0,
+      "receivingYards": 1017.0,
+      "receptions": 64.0,
+      "yardsPerReception": 15.890999794006348
+    }
+  },
+  {
+    "id": "4428557",
+    "name": "Tyjae Spears",
+    "position": "RB",
+    "team": "Titans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428557.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 84.0,
+      "rushingTouchdowns": 4.0,
+      "rushingYards": 312.0,
+      "rushingYardsPerGame": 26.0,
+      "yardsPerRushAttempt": 3.7139999866485596
+    }
+  },
+  {
+    "id": "4361604",
+    "name": "Blake Watson",
+    "position": "RB",
+    "team": "Titans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361604.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 4.0,
+      "rushingYards": 10.0,
+      "rushingYardsPerGame": 5.0,
+      "yardsPerRushAttempt": 2.5
+    }
+  },
+  {
+    "id": "4429160",
+    "name": "De'Von Achane",
+    "position": "RB",
+    "team": "Dolphins",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429160.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 203.0,
+      "rushingTouchdowns": 6.0,
+      "rushingYards": 907.0,
+      "rushingYardsPerGame": 53.35293960571289,
+      "yardsPerRushAttempt": 4.4679999351501465
+    }
+  },
+  {
+    "id": "4043016",
+    "name": "Dee Eskridge",
+    "position": "WR",
+    "team": "Dolphins",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4043016.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 3.0,
+      "receivingYards": 44.0,
+      "receptions": 3.0,
+      "yardsPerReception": 14.666999816894531
+    }
+  },
+  {
+    "id": "4362630",
+    "name": "Terrace Marshall Jr.",
+    "position": "WR",
+    "team": "Dolphins",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362630.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 6.0,
+      "receivingYards": 41.0,
+      "receptions": 3.0,
+      "yardsPerReception": 13.666999816894531
+    }
+  },
+  {
+    "id": "4048244",
+    "name": "Alexander Mattison",
+    "position": "RB",
+    "team": "Dolphins",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4048244.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 132.0,
+      "rushingTouchdowns": 4.0,
+      "rushingYards": 420.0,
+      "rushingYardsPerGame": 30.0,
+      "yardsPerRushAttempt": 3.181999921798706
+    }
+  },
+  {
+    "id": "4241479",
+    "name": "Tua Tagovailoa",
+    "position": "QB",
+    "team": "Dolphins",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241479.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 72.93199920654297,
+      "completions": 291.0,
+      "interceptions": 7.0,
+      "passingTouchdowns": 19.0,
+      "passingYards": 2867.0,
+      "QBRating": 101.36299896240234
+    }
+  },
+  {
+    "id": "4372016",
+    "name": "Jaylen Waddle",
+    "position": "WR",
+    "team": "Dolphins",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372016.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 83.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 744.0,
+      "receptions": 58.0,
+      "yardsPerReception": 12.82800006866455
+    }
+  },
+  {
+    "id": "4569603",
+    "name": "Malik Washington",
+    "position": "WR",
+    "team": "Dolphins",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569603.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 36.0,
+      "receivingYards": 223.0,
+      "receptions": 26.0,
+      "yardsPerReception": 8.57699966430664
+    }
+  },
+  {
+    "id": "4036335",
+    "name": "Cedrick Wilson Jr.",
+    "position": "WR",
+    "team": "Dolphins",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036335.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 27.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 211.0,
+      "receptions": 20.0,
+      "yardsPerReception": 10.550000190734863
+    }
+  },
+  {
+    "id": "4361259",
+    "name": "Zach Wilson",
+    "position": "QB",
+    "team": "Dolphins",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361259.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.63600158691406,
+      "completions": 28.0,
+      "passingTouchdowns": 3.0,
+      "passingYards": 397.0,
+      "QBRating": 115.43599700927734
+    }
+  },
+  {
+    "id": "4682745",
+    "name": "Jaylen Wright",
+    "position": "RB",
+    "team": "Dolphins",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4682745.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 68.0,
+      "rushingYards": 249.0,
+      "rushingYardsPerGame": 16.600000381469727,
+      "yardsPerRushAttempt": 3.6619999408721924
+    }
+  },
+  {
+    "id": "16800",
+    "name": "Davante Adams",
+    "position": "WR",
+    "team": "Rams",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/16800.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 141.0,
+      "receivingTouchdowns": 8.0,
+      "receivingYards": 1063.0,
+      "receptions": 85.0,
+      "yardsPerReception": 12.505999565124512
+    }
+  },
+  {
+    "id": "4360797",
+    "name": "Tutu Atwell",
+    "position": "WR",
+    "team": "Rams",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360797.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 62.0,
+      "receivingYards": 562.0,
+      "receptions": 42.0,
+      "yardsPerReception": 13.380999565124512
+    }
+  },
+  {
+    "id": "4259553",
+    "name": "Stetson Bennett IV",
+    "position": "QB",
+    "team": "Rams",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259553.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 59.41999816894531,
+      "completions": 41.0,
+      "interceptions": 5.0,
+      "passingTouchdowns": 2.0,
+      "passingYards": 437.0,
+      "QBRating": 57.45800018310547
+    }
+  },
+  {
+    "id": "4429096",
+    "name": "Blake Corum",
+    "position": "RB",
+    "team": "Rams",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429096.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 58.0,
+      "rushingYards": 207.0,
+      "rushingYardsPerGame": 12.176470756530762,
+      "yardsPerRushAttempt": 3.569000005722046
+    }
+  },
+  {
+    "id": "16760",
+    "name": "Jimmy Garoppolo",
+    "position": "QB",
+    "team": "Rams",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/16760.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 65.85399627685547,
+      "completions": 27.0,
+      "interceptions": 1.0,
+      "passingTouchdowns": 2.0,
+      "passingYards": 334.0,
+      "QBRating": 97.00199890136719
+    }
+  },
+  {
+    "id": "4426515",
+    "name": "Puka Nacua",
+    "position": "WR",
+    "team": "Rams",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426515.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 106.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 990.0,
+      "receptions": 79.0,
+      "yardsPerReception": 12.531999588012695
+    }
+  },
+  {
+    "id": "4243003",
+    "name": "Ronnie Rivers",
+    "position": "RB",
+    "team": "Rams",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243003.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 22.0,
+      "rushingYards": 99.0,
+      "rushingYardsPerGame": 5.823529243469238,
+      "yardsPerRushAttempt": 4.5
+    }
+  },
+  {
+    "id": "4565908",
+    "name": "Tyler Scott",
+    "position": "WR",
+    "team": "Rams",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4565908.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 1.0,
+      "receivingYards": 5.0,
+      "receptions": 1.0,
+      "yardsPerReception": 5.0
+    }
+  },
+  {
+    "id": "4386544",
+    "name": "Xavier Smith",
+    "position": "WR",
+    "team": "Rams",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4386544.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 2.0,
+      "receivingYards": 6.0,
+      "receptions": 2.0,
+      "yardsPerReception": 3.0
+    }
+  },
+  {
+    "id": "12483",
+    "name": "Matthew Stafford",
+    "position": "QB",
+    "team": "Rams",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/12483.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 65.76399993896484,
+      "completions": 340.0,
+      "interceptions": 8.0,
+      "passingTouchdowns": 20.0,
+      "passingYards": 3762.0,
+      "QBRating": 93.65299987792969
+    }
+  },
+  {
+    "id": "4569382",
+    "name": "Jordan Whittington",
+    "position": "WR",
+    "team": "Rams",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569382.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 28.0,
+      "receivingYards": 293.0,
+      "receptions": 22.0,
+      "yardsPerReception": 13.317999839782715
+    }
+  },
+  {
+    "id": "4430737",
+    "name": "Kyren Williams",
+    "position": "RB",
+    "team": "Rams",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430737.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 316.0,
+      "rushingTouchdowns": 14.0,
+      "rushingYards": 1299.0,
+      "rushingYardsPerGame": 81.1875,
+      "yardsPerRushAttempt": 4.111000061035156
+    }
+  },
+  {
+    "id": "3919510",
+    "name": "Alex Bachman",
+    "position": "WR",
+    "team": "Raiders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3919510.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 3.0,
+      "receivingYards": 31.0,
+      "receptions": 3.0,
+      "yardsPerReception": 10.333000183105469
+    }
+  },
+  {
+    "id": "4698191",
+    "name": "Chris Collier",
+    "position": "RB",
+    "team": "Raiders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4698191.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 5.0,
+      "rushingYards": 12.0,
+      "rushingYardsPerGame": 1.5,
+      "yardsPerRushAttempt": 2.4000000953674316
+    }
+  },
+  {
+    "id": "2579604",
+    "name": "Phillip Dorsett II",
+    "position": "WR",
+    "team": "Raiders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2579604.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 3.0
+    }
+  },
+  {
+    "id": "4361332",
+    "name": "Shedrick Jackson",
+    "position": "WR",
+    "team": "Raiders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361332.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 8.0,
+      "receivingYards": 21.0,
+      "receptions": 4.0,
+      "yardsPerReception": 5.25
+    }
+  },
+  {
+    "id": "4366963",
+    "name": "Dylan Laube",
+    "position": "RB",
+    "team": "Raiders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4366963.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 1.0
+    }
+  },
+  {
+    "id": "2577327",
+    "name": "Tyler Lockett",
+    "position": "WR",
+    "team": "Raiders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2577327.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 74.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 600.0,
+      "receptions": 49.0,
+      "yardsPerReception": 12.244999885559082
+    }
+  },
+  {
+    "id": "2576414",
+    "name": "Raheem Mostert",
+    "position": "RB",
+    "team": "Raiders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2576414.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 85.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 278.0,
+      "rushingYardsPerGame": 21.384614944458008,
+      "yardsPerRushAttempt": 3.2709999084472656
+    }
+  },
+  {
+    "id": "4260394",
+    "name": "Aidan O'Connell",
+    "position": "QB",
+    "team": "Raiders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4260394.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.374000549316406,
+      "completions": 154.0,
+      "interceptions": 4.0,
+      "passingTouchdowns": 8.0,
+      "passingYards": 1612.0,
+      "QBRating": 86.6510009765625
+    }
+  },
+  {
+    "id": "4240703",
+    "name": "Kenny Pickett",
+    "position": "QB",
+    "team": "Raiders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240703.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 59.52399826049805,
+      "completions": 25.0,
+      "interceptions": 1.0,
+      "passingTouchdowns": 2.0,
+      "passingYards": 291.0,
+      "QBRating": 86.50800323486328
+    }
+  },
+  {
+    "id": "15864",
+    "name": "Geno Smith",
+    "position": "QB",
+    "team": "Raiders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/15864.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 70.41500091552734,
+      "completions": 407.0,
+      "interceptions": 15.0,
+      "passingTouchdowns": 21.0,
+      "passingYards": 4320.0,
+      "QBRating": 93.2020034790039
+    }
+  },
+  {
+    "id": "4428718",
+    "name": "Tre Tucker",
+    "position": "WR",
+    "team": "Raiders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428718.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 81.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 539.0,
+      "receptions": 47.0,
+      "yardsPerReception": 11.468000411987305
+    }
+  },
+  {
+    "id": "4361777",
+    "name": "Zamir White",
+    "position": "RB",
+    "team": "Raiders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361777.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 65.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 183.0,
+      "rushingYardsPerGame": 22.875,
+      "yardsPerRushAttempt": 2.815000057220459
+    }
+  },
+  {
+    "id": "4429205",
+    "name": "Jordan Addison",
+    "position": "WR",
+    "team": "Vikings",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429205.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 99.0,
+      "receivingTouchdowns": 9.0,
+      "receivingYards": 875.0,
+      "receptions": 63.0,
+      "yardsPerReception": 13.888999938964844
+    }
+  },
+  {
+    "id": "4242431",
+    "name": "Ty Chandler",
+    "position": "RB",
+    "team": "Vikings",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242431.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 56.0,
+      "rushingYards": 182.0,
+      "rushingYardsPerGame": 10.70588207244873,
+      "yardsPerRushAttempt": 3.25
+    }
+  },
+  {
+    "id": "4262921",
+    "name": "Justin Jefferson",
+    "position": "WR",
+    "team": "Vikings",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4262921.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 154.0,
+      "receivingTouchdowns": 10.0,
+      "receivingYards": 1533.0,
+      "receptions": 103.0,
+      "yardsPerReception": 14.883000373840332
+    }
+  },
+  {
+    "id": "4360637",
+    "name": "Jeshaun Jones",
+    "position": "WR",
+    "team": "Vikings",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360637.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 9.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 90.0,
+      "receptions": 5.0,
+      "yardsPerReception": 18.0
+    }
+  },
+  {
+    "id": "3042519",
+    "name": "Aaron Jones Sr.",
+    "position": "RB",
+    "team": "Vikings",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3042519.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 255.0,
+      "rushingTouchdowns": 5.0,
+      "rushingYards": 1138.0,
+      "rushingYardsPerGame": 66.94117736816406,
+      "yardsPerRushAttempt": 4.4629998207092285
+    }
+  },
+  {
+    "id": "4360569",
+    "name": "Jordan Mason",
+    "position": "RB",
+    "team": "Vikings",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360569.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 153.0,
+      "rushingTouchdowns": 3.0,
+      "rushingYards": 789.0,
+      "rushingYardsPerGame": 65.75,
+      "yardsPerRushAttempt": 5.1570000648498535
+    }
+  },
+  {
+    "id": "4433970",
+    "name": "J.J. McCarthy",
+    "position": "QB",
+    "team": "Vikings",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4433970.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 64.70600128173828,
+      "completions": 11.0,
+      "interceptions": 1.0,
+      "passingTouchdowns": 2.0,
+      "passingYards": 188.0,
+      "QBRating": 116.78900146484375
+    }
+  },
+  {
+    "id": "4382466",
+    "name": "Jalen Nailor",
+    "position": "WR",
+    "team": "Vikings",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4382466.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 42.0,
+      "receivingTouchdowns": 6.0,
+      "receivingYards": 414.0,
+      "receptions": 28.0,
+      "yardsPerReception": 14.78600025177002
+    }
+  },
+  {
+    "id": "3722362",
+    "name": "Brett Rypien",
+    "position": "QB",
+    "team": "Vikings",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3722362.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 70.58799743652344,
+      "completions": 24.0,
+      "passingTouchdowns": 3.0,
+      "passingYards": 335.0,
+      "QBRating": 131.3730010986328
+    }
+  },
+  {
+    "id": "4257364",
+    "name": "Zavier Scott",
+    "position": "RB",
+    "team": "Vikings",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4257364.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 14.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 74.0,
+      "rushingYardsPerGame": 24.66666603088379,
+      "yardsPerRushAttempt": 5.285999774932861
+    }
+  },
+  {
+    "id": "2573079",
+    "name": "Carson Wentz",
+    "position": "QB",
+    "team": "Vikings",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2573079.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.15800094604492,
+      "completions": 12.0,
+      "passingYards": 118.0,
+      "QBRating": 80.59200286865234
+    }
+  },
+  {
+    "id": "3124092",
+    "name": "John Wolford",
+    "position": "QB",
+    "team": "Vikings",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3124092.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 59.375,
+      "completions": 19.0,
+      "passingYards": 183.0,
+      "QBRating": 75.39099884033203
+    }
+  },
+  {
+    "id": "4429022",
+    "name": "Kayshon Boutte",
+    "position": "WR",
+    "team": "Patriots",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429022.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 68.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 589.0,
+      "receptions": 43.0,
+      "yardsPerReception": 13.697999954223633
+    }
+  },
+  {
+    "id": "4240391",
+    "name": "Tommy DeVito",
+    "position": "QB",
+    "team": "Patriots",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240391.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 70.45500183105469,
+      "completions": 31.0,
+      "passingYards": 257.0,
+      "QBRating": 85.13300323486328
+    }
+  },
+  {
+    "id": "2976212",
+    "name": "Stefon Diggs",
+    "position": "WR",
+    "team": "Patriots",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2976212.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 64.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 496.0,
+      "receptions": 47.0,
+      "yardsPerReception": 10.553000450134277
+    }
+  },
+  {
+    "id": "3044720",
+    "name": "Joshua Dobbs",
+    "position": "QB",
+    "team": "Patriots",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3044720.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 68.08499908447266,
+      "completions": 32.0,
+      "interceptions": 2.0,
+      "passingTouchdowns": 2.0,
+      "passingYards": 361.0,
+      "QBRating": 87.27799987792969
+    }
+  },
+  {
+    "id": "4427095",
+    "name": "DeMario Douglas",
+    "position": "WR",
+    "team": "Patriots",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427095.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 87.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 621.0,
+      "receptions": 66.0,
+      "yardsPerReception": 9.409000396728516
+    }
+  },
+  {
+    "id": "4360294",
+    "name": "Antonio Gibson",
+    "position": "RB",
+    "team": "Patriots",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360294.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 120.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 538.0,
+      "rushingYardsPerGame": 31.647058486938477,
+      "yardsPerRushAttempt": 4.482999801635742
+    }
+  },
+  {
+    "id": "2991662",
+    "name": "Mack Hollins",
+    "position": "WR",
+    "team": "Patriots",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2991662.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 50.0,
+      "receivingTouchdowns": 5.0,
+      "receivingYards": 378.0,
+      "receptions": 31.0,
+      "yardsPerReception": 12.194000244140625
+    }
+  },
+  {
+    "id": "4427600",
+    "name": "Terrell Jennings",
+    "position": "RB",
+    "team": "Patriots",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427600.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 13.0,
+      "rushingYards": 33.0,
+      "rushingYardsPerGame": 11.0,
+      "yardsPerRushAttempt": 2.5380001068115234
+    }
+  },
+  {
+    "id": "4887705",
+    "name": "John Jiles",
+    "position": "WR",
+    "team": "Patriots",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4887705.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 7.0,
+      "receivingYards": 41.0,
+      "receptions": 2.0,
+      "yardsPerReception": 20.5
+    }
+  },
+  {
+    "id": "4431452",
+    "name": "Drake Maye",
+    "position": "QB",
+    "team": "Patriots",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431452.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 66.56800079345703,
+      "completions": 225.0,
+      "interceptions": 10.0,
+      "passingTouchdowns": 15.0,
+      "passingYards": 2276.0,
+      "QBRating": 88.0790023803711
+    }
+  },
+  {
+    "id": "4372526",
+    "name": "Deneric Prince",
+    "position": "RB",
+    "team": "Patriots",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372526.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 14.0,
+      "rushingYards": 62.0,
+      "rushingYardsPerGame": 20.66666603088379,
+      "yardsPerRushAttempt": 4.428999900817871
+    }
+  },
+  {
+    "id": "4569173",
+    "name": "Rhamondre Stevenson",
+    "position": "RB",
+    "team": "Patriots",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569173.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 207.0,
+      "rushingTouchdowns": 7.0,
+      "rushingYards": 801.0,
+      "rushingYardsPerGame": 53.400001525878906,
+      "yardsPerRushAttempt": 3.869999885559082
+    }
+  },
+  {
+    "id": "4372758",
+    "name": "Kevin Austin Jr.",
+    "position": "WR",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372758.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 22.0,
+      "receivingYards": 151.0,
+      "receptions": 11.0,
+      "yardsPerReception": 13.72700023651123
+    }
+  },
+  {
+    "id": "4372063",
+    "name": "Ronnie Bell",
+    "position": "WR",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372063.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 6.0,
+      "receivingYards": 22.0,
+      "receptions": 2.0,
+      "yardsPerReception": 11.0
+    }
+  },
+  {
+    "id": "4569682",
+    "name": "Audric Estime",
+    "position": "RB",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569682.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 76.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 310.0,
+      "rushingYardsPerGame": 23.846153259277344,
+      "yardsPerRushAttempt": 4.078999996185303
+    }
+  },
+  {
+    "id": "2468609",
+    "name": "Taysom Hill",
+    "position": "QB",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2468609.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 50.0,
+      "completions": 2.0,
+      "interceptions": 1.0,
+      "passingYards": 21.0,
+      "QBRating": 26.04199981689453
+    }
+  },
+  {
+    "id": "3054850",
+    "name": "Alvin Kamara",
+    "position": "RB",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3054850.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 228.0,
+      "rushingTouchdowns": 6.0,
+      "rushingYards": 950.0,
+      "rushingYardsPerGame": 67.85713958740234,
+      "yardsPerRushAttempt": 4.166999816894531
+    }
+  },
+  {
+    "id": "4427985",
+    "name": "Bub Means",
+    "position": "WR",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427985.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 15.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 118.0,
+      "receptions": 9.0,
+      "yardsPerReception": 13.111000061035156
+    }
+  },
+  {
+    "id": "4599739",
+    "name": "Kendre Miller",
+    "position": "RB",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4599739.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 39.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 148.0,
+      "rushingYardsPerGame": 24.66666603088379,
+      "yardsPerRushAttempt": 3.7950000762939453
+    }
+  },
+  {
+    "id": "4361370",
+    "name": "Chris Olave",
+    "position": "WR",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361370.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 44.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 400.0,
+      "receptions": 32.0,
+      "yardsPerReception": 12.5
+    }
+  },
+  {
+    "id": "4426407",
+    "name": "Trey Palmer",
+    "position": "WR",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426407.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 22.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 172.0,
+      "receptions": 12.0,
+      "yardsPerReception": 14.333000183105469
+    }
+  },
+  {
+    "id": "3127306",
+    "name": "Dante Pettis",
+    "position": "WR",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127306.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 28.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 120.0,
+      "receptions": 12.0,
+      "yardsPerReception": 10.0
+    }
+  },
+  {
+    "id": "4430637",
+    "name": "Ja'Lynn Polk",
+    "position": "WR",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430637.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 33.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 87.0,
+      "receptions": 12.0,
+      "yardsPerReception": 7.25
+    }
+  },
+  {
+    "id": "4426339",
+    "name": "Spencer Rattler",
+    "position": "QB",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426339.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 57.018001556396484,
+      "completions": 130.0,
+      "interceptions": 5.0,
+      "passingTouchdowns": 4.0,
+      "passingYards": 1317.0,
+      "QBRating": 70.3759994506836
+    }
+  },
+  {
+    "id": "4027873",
+    "name": "Samori Toure",
+    "position": "WR",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4027873.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 8.0,
+      "receivingYards": 53.0,
+      "receptions": 5.0,
+      "yardsPerReception": 10.600000381469727
+    }
+  },
+  {
+    "id": "4573697",
+    "name": "Mason Tipton",
+    "position": "WR",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573697.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 26.0,
+      "receivingYards": 99.0,
+      "receptions": 14.0,
+      "yardsPerReception": 7.071000099182129
+    }
+  },
+  {
+    "id": "4569559",
+    "name": "Devaughn Vele",
+    "position": "WR",
+    "team": "Saints",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569559.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 55.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 475.0,
+      "receptions": 41.0,
+      "yardsPerReception": 11.585000038146973
+    }
+  },
+  {
+    "id": "4427278",
+    "name": "Xavier Gipson",
+    "position": "WR",
+    "team": "Giants",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427278.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 10.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 39.0,
+      "receptions": 6.0,
+      "yardsPerReception": 6.5
+    }
+  },
+  {
+    "id": "4242540",
+    "name": "Isaiah Hodgins",
+    "position": "WR",
+    "team": "Giants",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242540.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 2.0,
+      "receivingYards": 12.0,
+      "receptions": 2.0,
+      "yardsPerReception": 6.0
+    }
+  },
+  {
+    "id": "4692590",
+    "name": "Jalin Hyatt",
+    "position": "WR",
+    "team": "Giants",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4692590.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 19.0,
+      "receivingYards": 62.0,
+      "receptions": 8.0,
+      "yardsPerReception": 7.75
+    }
+  },
+  {
+    "id": "4369466",
+    "name": "Ryan Miller",
+    "position": "WR",
+    "team": "Giants",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4369466.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 20.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 128.0,
+      "receptions": 12.0,
+      "yardsPerReception": 10.666999816894531
+    }
+  },
+  {
+    "id": "4595348",
+    "name": "Malik Nabers",
+    "position": "WR",
+    "team": "Giants",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4595348.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 170.0,
+      "receivingTouchdowns": 7.0,
+      "receivingYards": 1204.0,
+      "receptions": 109.0,
+      "yardsPerReception": 11.045999526977539
+    }
+  },
+  {
+    "id": "4569587",
+    "name": "Wan'Dale Robinson",
+    "position": "WR",
+    "team": "Giants",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569587.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 140.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 699.0,
+      "receptions": 93.0,
+      "yardsPerReception": 7.515999794006348
+    }
+  },
+  {
+    "id": "4040761",
+    "name": "Devin Singletary",
+    "position": "RB",
+    "team": "Giants",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4040761.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 113.0,
+      "rushingTouchdowns": 4.0,
+      "rushingYards": 437.0,
+      "rushingYardsPerGame": 29.133333206176758,
+      "yardsPerRushAttempt": 3.867000102996826
+    }
+  },
+  {
+    "id": "3916945",
+    "name": "Darius Slayton",
+    "position": "WR",
+    "team": "Giants",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3916945.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 71.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 573.0,
+      "receptions": 39.0,
+      "yardsPerReception": 14.692000389099121
+    }
+  },
+  {
+    "id": "4360516",
+    "name": "Tyrone Tracy Jr.",
+    "position": "RB",
+    "team": "Giants",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360516.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 192.0,
+      "rushingTouchdowns": 5.0,
+      "rushingYards": 839.0,
+      "rushingYardsPerGame": 49.35293960571289,
+      "yardsPerRushAttempt": 4.369999885559082
+    }
+  },
+  {
+    "id": "14881",
+    "name": "Russell Wilson",
+    "position": "QB",
+    "team": "Giants",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/14881.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.689998626708984,
+      "completions": 214.0,
+      "interceptions": 5.0,
+      "passingTouchdowns": 16.0,
+      "passingYards": 2482.0,
+      "QBRating": 95.61000061035156
+    }
+  },
+  {
+    "id": "2969939",
+    "name": "Jameis Winston",
+    "position": "QB",
+    "team": "Giants",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2969939.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 61.14899826049805,
+      "completions": 181.0,
+      "interceptions": 12.0,
+      "passingTouchdowns": 13.0,
+      "passingYards": 2121.0,
+      "QBRating": 80.6449966430664
+    }
+  },
+  {
+    "id": "4685247",
+    "name": "Braelon Allen",
+    "position": "RB",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685247.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 92.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 334.0,
+      "rushingYardsPerGame": 19.647058486938477,
+      "yardsPerRushAttempt": 3.630000114440918
+    }
+  },
+  {
+    "id": "3929636",
+    "name": "Irvin Charles",
+    "position": "WR",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3929636.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 1.0
+    }
+  },
+  {
+    "id": "4695404",
+    "name": "Isaiah Davis",
+    "position": "RB",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4695404.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 30.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 174.0,
+      "rushingYardsPerGame": 10.235294342041016,
+      "yardsPerRushAttempt": 5.800000190734863
+    }
+  },
+  {
+    "id": "4362887",
+    "name": "Justin Fields",
+    "position": "QB",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362887.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 65.83899688720703,
+      "completions": 106.0,
+      "interceptions": 1.0,
+      "passingTouchdowns": 5.0,
+      "passingYards": 1106.0,
+      "QBRating": 93.33599853515625
+    }
+  },
+  {
+    "id": "4427366",
+    "name": "Breece Hall",
+    "position": "RB",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427366.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 209.0,
+      "rushingTouchdowns": 5.0,
+      "rushingYards": 876.0,
+      "rushingYardsPerGame": 54.75,
+      "yardsPerRushAttempt": 4.190999984741211
+    }
+  },
+  {
+    "id": "2310331",
+    "name": "Tyler Johnson",
+    "position": "WR",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2310331.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 41.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 291.0,
+      "receptions": 26.0,
+      "yardsPerReception": 11.192000389099121
+    }
+  },
+  {
+    "id": "4035886",
+    "name": "Khalil Herbert",
+    "position": "RB",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035886.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 36.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 130.0,
+      "rushingYardsPerGame": 9.285714149475098,
+      "yardsPerRushAttempt": 3.6110000610351562
+    }
+  },
+  {
+    "id": "4240858",
+    "name": "Hendon Hooker",
+    "position": "QB",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240858.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 66.66699981689453,
+      "completions": 6.0,
+      "passingYards": 62.0,
+      "QBRating": 86.34300231933594
+    }
+  },
+  {
+    "id": "4567096",
+    "name": "John Metchie III",
+    "position": "WR",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567096.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 37.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 254.0,
+      "receptions": 24.0,
+      "yardsPerReception": 10.583000183105469
+    }
+  },
+  {
+    "id": "4597500",
+    "name": "Adonai Mitchell",
+    "position": "WR",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4597500.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 55.0,
+      "receivingYards": 312.0,
+      "receptions": 23.0,
+      "yardsPerReception": 13.5649995803833
+    }
+  },
+  {
+    "id": "3115306",
+    "name": "Josh Reynolds",
+    "position": "WR",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3115306.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 24.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 194.0,
+      "receptions": 13.0,
+      "yardsPerReception": 14.92300033569336
+    }
+  },
+  {
+    "id": "14163",
+    "name": "Tyrod Taylor",
+    "position": "QB",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/14163.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 77.27300262451172,
+      "completions": 17.0,
+      "passingTouchdowns": 3.0,
+      "passingYards": 119.0,
+      "QBRating": 128.59800720214844
+    }
+  },
+  {
+    "id": "4569371",
+    "name": "Isaiah Williams",
+    "position": "WR",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569371.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 3.0,
+      "receivingYards": 6.0,
+      "receptions": 2.0,
+      "yardsPerReception": 3.0
+    }
+  },
+  {
+    "id": "4569618",
+    "name": "Garrett Wilson",
+    "position": "WR",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569618.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 154.0,
+      "receivingTouchdowns": 7.0,
+      "receivingYards": 1104.0,
+      "receptions": 101.0,
+      "yardsPerReception": 10.930999755859375
+    }
+  },
+  {
+    "id": "4250360",
+    "name": "Bailey Zappe",
+    "position": "QB",
+    "team": "Jets",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4250360.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 51.612998962402344,
+      "completions": 16.0,
+      "interceptions": 2.0,
+      "passingTouchdowns": 1.0,
+      "passingYards": 170.0,
+      "QBRating": 51.814998626708984
+    }
+  },
+  {
+    "id": "3929630",
+    "name": "Saquon Barkley",
+    "position": "RB",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3929630.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 345.0,
+      "rushingTouchdowns": 13.0,
+      "rushingYards": 2005.0,
+      "rushingYardsPerGame": 125.3125,
+      "yardsPerRushAttempt": 5.811999797821045
+    }
+  },
+  {
+    "id": "4429013",
+    "name": "Tank Bigsby",
+    "position": "RB",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429013.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 168.0,
+      "rushingTouchdowns": 7.0,
+      "rushingYards": 766.0,
+      "rushingYardsPerGame": 47.875,
+      "yardsPerRushAttempt": 4.559999942779541
+    }
+  },
+  {
+    "id": "4047646",
+    "name": "A.J. Brown",
+    "position": "WR",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4047646.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 97.0,
+      "receivingTouchdowns": 7.0,
+      "receivingYards": 1079.0,
+      "receptions": 67.0,
+      "yardsPerReception": 16.104000091552734
+    }
+  },
+  {
+    "id": "3926231",
+    "name": "Britain Covey",
+    "position": "WR",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3926231.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 8.0,
+      "receivingYards": 34.0,
+      "receptions": 7.0,
+      "yardsPerReception": 4.85699987411499
+    }
+  },
+  {
+    "id": "4239934",
+    "name": "AJ Dillon",
+    "position": "RB",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4239934.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 4.0,
+      "rushingYards": 2.0,
+      "rushingYardsPerGame": 2.0,
+      "yardsPerRushAttempt": 0.5
+    }
+  },
+  {
+    "id": "4361409",
+    "name": "Jahan Dotson",
+    "position": "WR",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361409.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 33.0,
+      "receivingYards": 216.0,
+      "receptions": 19.0,
+      "yardsPerReception": 11.368000030517578
+    }
+  },
+  {
+    "id": "4689546",
+    "name": "Danny Gray",
+    "position": "WR",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4689546.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 3.0,
+      "receivingYards": 13.0,
+      "receptions": 1.0,
+      "yardsPerReception": 13.0
+    }
+  },
+  {
+    "id": "4426875",
+    "name": "Sam Howell",
+    "position": "QB",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426875.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 35.7140007019043,
+      "completions": 5.0,
+      "interceptions": 1.0,
+      "passingYards": 24.0,
+      "QBRating": 14.583000183105469
+    }
+  },
+  {
+    "id": "4040715",
+    "name": "Jalen Hurts",
+    "position": "QB",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4040715.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 68.697998046875,
+      "completions": 248.0,
+      "interceptions": 5.0,
+      "passingTouchdowns": 18.0,
+      "passingYards": 2903.0,
+      "QBRating": 103.68800354003906
+    }
+  },
+  {
+    "id": "4685201",
+    "name": "Tanner McKee",
+    "position": "QB",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685201.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 66.66699981689453,
+      "completions": 30.0,
+      "passingTouchdowns": 4.0,
+      "passingYards": 323.0,
+      "QBRating": 117.1760025024414
+    }
+  },
+  {
+    "id": "4431545",
+    "name": "Will Shipley",
+    "position": "RB",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431545.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 30.0,
+      "rushingYards": 82.0,
+      "rushingYardsPerGame": 5.125,
+      "yardsPerRushAttempt": 2.7330000400543213
+    }
+  },
+  {
+    "id": "4241478",
+    "name": "DeVonta Smith",
+    "position": "WR",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241478.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 89.0,
+      "receivingTouchdowns": 8.0,
+      "receivingYards": 833.0,
+      "receptions": 68.0,
+      "yardsPerReception": 12.25
+    }
+  },
+  {
+    "id": "4714365",
+    "name": "Carson Steele",
+    "position": "RB",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4714365.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 56.0,
+      "rushingYards": 183.0,
+      "rushingYardsPerGame": 10.764705657958984,
+      "yardsPerRushAttempt": 3.2679998874664307
+    }
+  },
+  {
+    "id": "4050373",
+    "name": "Quez Watkins",
+    "position": "WR",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4050373.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 2.0,
+      "receivingYards": 10.0,
+      "receptions": 1.0,
+      "yardsPerReception": 10.0
+    }
+  },
+  {
+    "id": "4686104",
+    "name": "Johnny Wilson",
+    "position": "WR",
+    "team": "Eagles",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4686104.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 15.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 38.0,
+      "receptions": 5.0,
+      "yardsPerReception": 7.599999904632568
+    }
+  },
+  {
+    "id": "3886809",
+    "name": "Andre Baccellia",
+    "position": "WR",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3886809.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 11.0,
+      "receivingYards": 85.0,
+      "receptions": 7.0,
+      "yardsPerReception": 12.142999649047852
+    }
+  },
+  {
+    "id": "4429275",
+    "name": "Trey Benson",
+    "position": "RB",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429275.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 63.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 291.0,
+      "rushingYardsPerGame": 22.384614944458008,
+      "yardsPerRushAttempt": 4.61899995803833
+    }
+  },
+  {
+    "id": "4692835",
+    "name": "Jalen Brooks",
+    "position": "WR",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4692835.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 30.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 177.0,
+      "receptions": 12.0,
+      "yardsPerReception": 14.75
+    }
+  },
+  {
+    "id": "2578570",
+    "name": "Jacoby Brissett",
+    "position": "QB",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2578570.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 59.00600051879883,
+      "completions": 95.0,
+      "interceptions": 1.0,
+      "passingTouchdowns": 2.0,
+      "passingYards": 826.0,
+      "QBRating": 74.18499755859375
+    }
+  },
+  {
+    "id": "4240657",
+    "name": "Michael Carter",
+    "position": "RB",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240657.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 35.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 131.0,
+      "rushingYardsPerGame": 43.66666793823242,
+      "yardsPerRushAttempt": 3.743000030517578
+    }
+  },
+  {
+    "id": "3045147",
+    "name": "James Conner",
+    "position": "RB",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3045147.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 236.0,
+      "rushingTouchdowns": 8.0,
+      "rushingYards": 1094.0,
+      "rushingYardsPerGame": 68.375,
+      "yardsPerRushAttempt": 4.636000156402588
+    }
+  },
+  {
+    "id": "4037235",
+    "name": "Greg Dortch",
+    "position": "WR",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4037235.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 50.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 342.0,
+      "receptions": 37.0,
+      "yardsPerReception": 9.243000030517578
+    }
+  },
+  {
+    "id": "4362478",
+    "name": "Emari Demercado",
+    "position": "RB",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362478.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 24.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 223.0,
+      "rushingYardsPerGame": 17.153846740722656,
+      "yardsPerRushAttempt": 9.291999816894531
+    }
+  },
+  {
+    "id": "4360739",
+    "name": "Simi Fehoko",
+    "position": "WR",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360739.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 16.0,
+      "receivingYards": 106.0,
+      "receptions": 6.0,
+      "yardsPerReception": 17.66699981689453
+    }
+  },
+  {
+    "id": "4432708",
+    "name": "Marvin Harrison Jr.",
+    "position": "WR",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432708.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 116.0,
+      "receivingTouchdowns": 8.0,
+      "receivingYards": 885.0,
+      "receptions": 62.0,
+      "yardsPerReception": 14.27400016784668
+    }
+  },
+  {
+    "id": "3059722",
+    "name": "Zay Jones",
+    "position": "WR",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3059722.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 11.0,
+      "receivingYards": 84.0,
+      "receptions": 8.0,
+      "yardsPerReception": 10.5
+    }
+  },
+  {
+    "id": "4427728",
+    "name": "Bam Knight",
+    "position": "RB",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427728.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 24.0,
+      "rushingYards": 75.0,
+      "rushingYardsPerGame": 25.0,
+      "yardsPerRushAttempt": 3.125
+    }
+  },
+  {
+    "id": "3917315",
+    "name": "Kyler Murray",
+    "position": "QB",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917315.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 68.76200103759766,
+      "completions": 372.0,
+      "interceptions": 11.0,
+      "passingTouchdowns": 21.0,
+      "passingYards": 3851.0,
+      "QBRating": 93.51100158691406
+    }
+  },
+  {
+    "id": "4875912",
+    "name": "Tejhaun Palmer",
+    "position": "WR",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4875912.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 14.0,
+      "receivingYards": 51.0,
+      "receptions": 4.0,
+      "yardsPerReception": 12.75
+    }
+  },
+  {
+    "id": "4428512",
+    "name": "Kedon Slovis",
+    "position": "QB",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428512.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 72.72699737548828,
+      "completions": 16.0,
+      "passingYards": 149.0,
+      "QBRating": 90.90899658203125
+    }
+  },
+  {
+    "id": "4428811",
+    "name": "Xavier Weaver",
+    "position": "WR",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428811.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 2.0
+    }
+  },
+  {
+    "id": "4360761",
+    "name": "Michael Wilson",
+    "position": "WR",
+    "team": "Cardinals",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360761.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 71.0,
+      "receivingTouchdowns": 4.0,
+      "receivingYards": 548.0,
+      "receptions": 47.0,
+      "yardsPerReception": 11.65999984741211
+    }
+  },
+  {
+    "id": "4243389",
+    "name": "Calvin Austin III",
+    "position": "WR",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243389.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 58.0,
+      "receivingTouchdowns": 4.0,
+      "receivingYards": 548.0,
+      "receptions": 36.0,
+      "yardsPerReception": 15.222000122070312
+    }
+  },
+  {
+    "id": "5192448",
+    "name": "Cole Burgess",
+    "position": "WR",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5192448.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 5.0,
+      "receivingYards": 20.0,
+      "receptions": 3.0,
+      "yardsPerReception": 6.666999816894531
+    }
+  },
+  {
+    "id": "4371733",
+    "name": "Kenneth Gainwell",
+    "position": "RB",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4371733.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 75.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 290.0,
+      "rushingYardsPerGame": 17.058822631835938,
+      "yardsPerRushAttempt": 3.867000102996826
+    }
+  },
+  {
+    "id": "3914397",
+    "name": "Scotty Miller",
+    "position": "WR",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3914397.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 9.0,
+      "receivingYards": 69.0,
+      "receptions": 5.0,
+      "yardsPerReception": 13.800000190734863
+    }
+  },
+  {
+    "id": "4047650",
+    "name": "DK Metcalf",
+    "position": "WR",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4047650.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 108.0,
+      "receivingTouchdowns": 5.0,
+      "receivingYards": 992.0,
+      "receptions": 66.0,
+      "yardsPerReception": 15.029999732971191
+    }
+  },
+  {
+    "id": "4428119",
+    "name": "Lew Nichols",
+    "position": "RB",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428119.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 15.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 30.0,
+      "rushingYardsPerGame": 10.0,
+      "yardsPerRushAttempt": 2.0
+    }
+  },
+  {
+    "id": "4362019",
+    "name": "A.T. Perry",
+    "position": "WR",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362019.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 14.0,
+      "receivingYards": 176.0,
+      "receptions": 8.0,
+      "yardsPerReception": 22.0
+    }
+  },
+  {
+    "id": "3116407",
+    "name": "Mason Rudolph",
+    "position": "QB",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116407.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 64.03500366210938,
+      "completions": 146.0,
+      "interceptions": 9.0,
+      "passingTouchdowns": 9.0,
+      "passingYards": 1530.0,
+      "QBRating": 80.11699676513672
+    }
+  },
+  {
+    "id": "8439",
+    "name": "Aaron Rodgers",
+    "position": "QB",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/8439.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.013999938964844,
+      "completions": 368.0,
+      "interceptions": 11.0,
+      "passingTouchdowns": 28.0,
+      "passingYards": 3897.0,
+      "QBRating": 90.53199768066406
+    }
+  },
+  {
+    "id": "4035656",
+    "name": "Ben Skowronek",
+    "position": "WR",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035656.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 5.0,
+      "receivingYards": 69.0,
+      "receptions": 5.0,
+      "yardsPerReception": 13.800000190734863
+    }
+  },
+  {
+    "id": "16460",
+    "name": "Adam Thielen",
+    "position": "WR",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/16460.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 62.0,
+      "receivingTouchdowns": 5.0,
+      "receivingYards": 615.0,
+      "receptions": 48.0,
+      "yardsPerReception": 12.812999725341797
+    }
+  },
+  {
+    "id": "4036419",
+    "name": "Skylar Thompson",
+    "position": "QB",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036419.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.63600158691406,
+      "completions": 21.0,
+      "passingYards": 187.0,
+      "QBRating": 78.7249984741211
+    }
+  },
+  {
+    "id": "3051738",
+    "name": "Marquez Valdes-Scantling",
+    "position": "WR",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3051738.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 44.0,
+      "receivingTouchdowns": 4.0,
+      "receivingYards": 411.0,
+      "receptions": 19.0,
+      "yardsPerReception": 21.631999969482422
+    }
+  },
+  {
+    "id": "4569987",
+    "name": "Jaylen Warren",
+    "position": "RB",
+    "team": "Steelers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569987.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 120.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 511.0,
+      "rushingYardsPerGame": 34.06666564941406,
+      "yardsPerRushAttempt": 4.257999897003174
+    }
+  },
+  {
+    "id": "15818",
+    "name": "Keenan Allen",
+    "position": "WR",
+    "team": "Chargers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/15818.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 121.0,
+      "receivingTouchdowns": 7.0,
+      "receivingYards": 744.0,
+      "receptions": 70.0,
+      "yardsPerReception": 10.628999710083008
+    }
+  },
+  {
+    "id": "4362477",
+    "name": "Derius Davis",
+    "position": "WR",
+    "team": "Chargers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362477.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 17.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 112.0,
+      "receptions": 13.0,
+      "yardsPerReception": 8.614999771118164
+    }
+  },
+  {
+    "id": "4372071",
+    "name": "Hassan Haskins",
+    "position": "RB",
+    "team": "Chargers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372071.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 34.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 89.0,
+      "rushingYardsPerGame": 5.235294342041016,
+      "yardsPerRushAttempt": 2.618000030517578
+    }
+  },
+  {
+    "id": "4241457",
+    "name": "Najee Harris",
+    "position": "RB",
+    "team": "Chargers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241457.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 263.0,
+      "rushingTouchdowns": 6.0,
+      "rushingYards": 1043.0,
+      "rushingYardsPerGame": 61.35293960571289,
+      "yardsPerRushAttempt": 3.9660000801086426
+    }
+  },
+  {
+    "id": "4038941",
+    "name": "Justin Herbert",
+    "position": "QB",
+    "team": "Chargers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4038941.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 65.87300109863281,
+      "completions": 332.0,
+      "interceptions": 3.0,
+      "passingTouchdowns": 23.0,
+      "passingYards": 3870.0,
+      "QBRating": 101.7030029296875
+    }
+  },
+  {
+    "id": "5160748",
+    "name": "JaQuae Jackson",
+    "position": "WR",
+    "team": "Chargers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5160748.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 2.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 38.0,
+      "receptions": 1.0,
+      "yardsPerReception": 38.0
+    }
+  },
+  {
+    "id": "4429025",
+    "name": "Quentin Johnston",
+    "position": "WR",
+    "team": "Chargers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429025.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 91.0,
+      "receivingTouchdowns": 8.0,
+      "receivingYards": 711.0,
+      "receptions": 55.0,
+      "yardsPerReception": 12.927000045776367
+    }
+  },
+  {
+    "id": "4383351",
+    "name": "Trey Lance",
+    "position": "QB",
+    "team": "Chargers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4383351.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 60.97600173950195,
+      "completions": 25.0,
+      "interceptions": 1.0,
+      "passingYards": 266.0,
+      "QBRating": 69.76599884033203
+    }
+  },
+  {
+    "id": "4612826",
+    "name": "Ladd McConkey",
+    "position": "WR",
+    "team": "Chargers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4612826.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 112.0,
+      "receivingTouchdowns": 7.0,
+      "receivingYards": 1149.0,
+      "receptions": 82.0,
+      "yardsPerReception": 14.01200008392334
+    }
+  },
+  {
+    "id": "4430968",
+    "name": "Kimani Vidal",
+    "position": "RB",
+    "team": "Chargers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430968.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 43.0,
+      "rushingYards": 155.0,
+      "rushingYardsPerGame": 15.5,
+      "yardsPerRushAttempt": 3.6050000190734863
+    }
+  },
+  {
+    "id": "4360438",
+    "name": "Brandon Aiyuk",
+    "position": "WR",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360438.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 47.0,
+      "receivingYards": 374.0,
+      "receptions": 25.0,
+      "yardsPerReception": 14.960000038146973
+    }
+  },
+  {
+    "id": "3045523",
+    "name": "Kendrick Bourne",
+    "position": "WR",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3045523.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 38.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 305.0,
+      "receptions": 28.0,
+      "yardsPerReception": 10.892999649047852
+    }
+  },
+  {
+    "id": "4575665",
+    "name": "Jacob Cowing",
+    "position": "WR",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4575665.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 6.0,
+      "receivingYards": 80.0,
+      "receptions": 4.0,
+      "yardsPerReception": 20.0
+    }
+  },
+  {
+    "id": "4372561",
+    "name": "Isaac Guerendo",
+    "position": "RB",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4372561.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 84.0,
+      "rushingTouchdowns": 4.0,
+      "rushingYards": 420.0,
+      "rushingYardsPerGame": 26.25,
+      "yardsPerRushAttempt": 5.0
+    }
+  },
+  {
+    "id": "3886598",
+    "name": "Jauan Jennings",
+    "position": "WR",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3886598.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 113.0,
+      "receivingTouchdowns": 6.0,
+      "receivingYards": 975.0,
+      "receptions": 77.0,
+      "yardsPerReception": 12.661999702453613
+    }
+  },
+  {
+    "id": "4241464",
+    "name": "Mac Jones",
+    "position": "QB",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241464.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 65.26699829101562,
+      "completions": 171.0,
+      "interceptions": 8.0,
+      "passingTouchdowns": 8.0,
+      "passingYards": 1672.0,
+      "QBRating": 80.51799774169922
+    }
+  },
+  {
+    "id": "4361182",
+    "name": "Adrian Martinez",
+    "position": "QB",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361182.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 53.191001892089844,
+      "completions": 25.0,
+      "interceptions": 1.0,
+      "passingYards": 270.0,
+      "QBRating": 61.47999954223633
+    }
+  },
+  {
+    "id": "3117251",
+    "name": "Christian McCaffrey",
+    "position": "RB",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3117251.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 50.0,
+      "rushingYards": 202.0,
+      "rushingYardsPerGame": 50.5,
+      "yardsPerRushAttempt": 4.039999961853027
+    }
+  },
+  {
+    "id": "4430191",
+    "name": "Skyy Moore",
+    "position": "WR",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430191.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 3.0
+    }
+  },
+  {
+    "id": "4428209",
+    "name": "Ricky Pearsall",
+    "position": "WR",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428209.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 46.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 400.0,
+      "receptions": 31.0,
+      "yardsPerReception": 12.902999877929688
+    }
+  },
+  {
+    "id": "4361741",
+    "name": "Brock Purdy",
+    "position": "QB",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361741.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 65.93399810791016,
+      "completions": 300.0,
+      "interceptions": 12.0,
+      "passingTouchdowns": 20.0,
+      "passingYards": 3864.0,
+      "QBRating": 96.07599639892578
+    }
+  },
+  {
+    "id": "3043116",
+    "name": "Demarcus Robinson",
+    "position": "WR",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3043116.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 64.0,
+      "receivingTouchdowns": 7.0,
+      "receivingYards": 505.0,
+      "receptions": 31.0,
+      "yardsPerReception": 16.290000915527344
+    }
+  },
+  {
+    "id": "4241474",
+    "name": "Brian Robinson Jr.",
+    "position": "RB",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241474.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 187.0,
+      "rushingTouchdowns": 8.0,
+      "rushingYards": 799.0,
+      "rushingYardsPerGame": 57.07143020629883,
+      "yardsPerRushAttempt": 4.2729997634887695
+    }
+  },
+  {
+    "id": "4039358",
+    "name": "Patrick Taylor Jr.",
+    "position": "RB",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039358.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 39.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 183.0,
+      "rushingYardsPerGame": 14.076923370361328,
+      "yardsPerRushAttempt": 4.691999912261963
+    }
+  },
+  {
+    "id": "3040569",
+    "name": "Trent Taylor",
+    "position": "WR",
+    "team": "49ers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3040569.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 1.0,
+      "receivingYards": 11.0,
+      "receptions": 1.0,
+      "yardsPerReception": 11.0
+    }
+  },
+  {
+    "id": "4240021",
+    "name": "Cam Akers",
+    "position": "RB",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240021.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 104.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 444.0,
+      "rushingYardsPerGame": 26.117647171020508,
+      "yardsPerRushAttempt": 4.269000053405762
+    }
+  },
+  {
+    "id": "4360405",
+    "name": "Jake Bobo",
+    "position": "WR",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360405.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 17.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 107.0,
+      "receptions": 13.0,
+      "yardsPerReception": 8.230999946594238
+    }
+  },
+  {
+    "id": "4426385",
+    "name": "Zach Charbonnet",
+    "position": "RB",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426385.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 135.0,
+      "rushingTouchdowns": 8.0,
+      "rushingYards": 569.0,
+      "rushingYardsPerGame": 33.47058868408203,
+      "yardsPerRushAttempt": 4.215000152587891
+    }
+  },
+  {
+    "id": "3912547",
+    "name": "Sam Darnold",
+    "position": "QB",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3912547.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 66.23899841308594,
+      "completions": 361.0,
+      "interceptions": 12.0,
+      "passingTouchdowns": 35.0,
+      "passingYards": 4319.0,
+      "QBRating": 102.53399658203125
+    }
+  },
+  {
+    "id": "4429835",
+    "name": "George Holani",
+    "position": "RB",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429835.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 3.0,
+      "rushingYards": 10.0,
+      "rushingYardsPerGame": 2.0,
+      "yardsPerRushAttempt": 3.3329999446868896
+    }
+  },
+  {
+    "id": "4035693",
+    "name": "Velus Jones Jr.",
+    "position": "RB",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035693.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 3.0,
+      "rushingYards": 11.0,
+      "rushingYardsPerGame": 3.6666667461395264,
+      "yardsPerRushAttempt": 3.6670000553131104
+    }
+  },
+  {
+    "id": "2977187",
+    "name": "Cooper Kupp",
+    "position": "WR",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2977187.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 100.0,
+      "receivingTouchdowns": 6.0,
+      "receivingYards": 710.0,
+      "receptions": 67.0,
+      "yardsPerReception": 10.597000122070312
+    }
+  },
+  {
+    "id": "3924327",
+    "name": "Drew Lock",
+    "position": "QB",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3924327.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 59.11600112915039,
+      "completions": 107.0,
+      "interceptions": 5.0,
+      "passingTouchdowns": 6.0,
+      "passingYards": 1071.0,
+      "QBRating": 75.54100036621094
+    }
+  },
+  {
+    "id": "4427391",
+    "name": "Kenny McIntosh",
+    "position": "RB",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427391.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 31.0,
+      "rushingYards": 172.0,
+      "rushingYardsPerGame": 10.117647171020508,
+      "yardsPerRushAttempt": 5.547999858856201
+    }
+  },
+  {
+    "id": "4032473",
+    "name": "Rashid Shaheed",
+    "position": "WR",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4032473.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 41.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 349.0,
+      "receptions": 20.0,
+      "yardsPerReception": 17.450000762939453
+    }
+  },
+  {
+    "id": "4430878",
+    "name": "Jaxon Smith-Njigba",
+    "position": "WR",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430878.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 137.0,
+      "receivingTouchdowns": 6.0,
+      "receivingYards": 1130.0,
+      "receptions": 100.0,
+      "yardsPerReception": 11.300000190734863
+    }
+  },
+  {
+    "id": "4567048",
+    "name": "Kenneth Walker III",
+    "position": "RB",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567048.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 153.0,
+      "rushingTouchdowns": 7.0,
+      "rushingYards": 573.0,
+      "rushingYardsPerGame": 47.75,
+      "yardsPerRushAttempt": 3.744999885559082
+    }
+  },
+  {
+    "id": "4241983",
+    "name": "Cody White",
+    "position": "WR",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241983.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 3.0,
+      "receivingYards": 44.0,
+      "receptions": 2.0,
+      "yardsPerReception": 22.0
+    }
+  },
+  {
+    "id": "4401805",
+    "name": "Dareke Young",
+    "position": "WR",
+    "team": "Seahawks",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4401805.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 1.0
+    }
+  },
+  {
+    "id": "3121409",
+    "name": "Noah Brown",
+    "position": "WR",
+    "team": "Commanders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3121409.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 56.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 453.0,
+      "receptions": 35.0,
+      "yardsPerReception": 12.942999839782715
+    }
+  },
+  {
+    "id": "4567156",
+    "name": "Treylon Burks",
+    "position": "WR",
+    "team": "Commanders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567156.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 8.0,
+      "receivingYards": 34.0,
+      "receptions": 4.0,
+      "yardsPerReception": 8.5
+    }
+  },
+  {
+    "id": "4426348",
+    "name": "Jayden Daniels",
+    "position": "QB",
+    "team": "Commanders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 68.95800018310547,
+      "completions": 331.0,
+      "interceptions": 9.0,
+      "passingTouchdowns": 25.0,
+      "passingYards": 3568.0,
+      "QBRating": 100.06900024414062
+    }
+  },
+  {
+    "id": "3068267",
+    "name": "Austin Ekeler",
+    "position": "RB",
+    "team": "Commanders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3068267.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 77.0,
+      "rushingTouchdowns": 4.0,
+      "rushingYards": 367.0,
+      "rushingYardsPerGame": 30.58333396911621,
+      "yardsPerRushAttempt": 4.765999794006348
+    }
+  },
+  {
+    "id": "4361994",
+    "name": "Sam Hartman",
+    "position": "QB",
+    "team": "Commanders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361994.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 61.53799819946289,
+      "completions": 8.0,
+      "passingYards": 83.0,
+      "QBRating": 79.96800231933594
+    }
+  },
+  {
+    "id": "11394",
+    "name": "Josh Johnson",
+    "position": "QB",
+    "team": "Commanders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/11394.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 66.66699981689453,
+      "completions": 2.0,
+      "passingYards": 17.0,
+      "QBRating": 81.25
+    }
+  },
+  {
+    "id": "2576980",
+    "name": "Marcus Mariota",
+    "position": "QB",
+    "team": "Commanders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2576980.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 77.27300262451172,
+      "completions": 34.0,
+      "passingTouchdowns": 4.0,
+      "passingYards": 364.0,
+      "QBRating": 131.25
+    }
+  },
+  {
+    "id": "4426948",
+    "name": "Luke McCaffrey",
+    "position": "WR",
+    "team": "Commanders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426948.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 24.0,
+      "receivingYards": 168.0,
+      "receptions": 18.0,
+      "yardsPerReception": 9.333000183105469
+    }
+  },
+  {
+    "id": "3121422",
+    "name": "Terry McLaurin",
+    "position": "WR",
+    "team": "Commanders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3121422.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 117.0,
+      "receivingTouchdowns": 13.0,
+      "receivingYards": 1096.0,
+      "receptions": 82.0,
+      "yardsPerReception": 13.366000175476074
+    }
+  },
+  {
+    "id": "3127586",
+    "name": "Jeremy McNichols",
+    "position": "RB",
+    "team": "Commanders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3127586.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 55.0,
+      "rushingTouchdowns": 4.0,
+      "rushingYards": 261.0,
+      "rushingYardsPerGame": 15.352941513061523,
+      "yardsPerRushAttempt": 4.744999885559082
+    }
+  },
+  {
+    "id": "4362619",
+    "name": "Chris Rodriguez Jr.",
+    "position": "RB",
+    "team": "Commanders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362619.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 35.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 173.0,
+      "rushingYardsPerGame": 19.22222137451172,
+      "yardsPerRushAttempt": 4.942999839782715
+    }
+  },
+  {
+    "id": "3126486",
+    "name": "Deebo Samuel",
+    "position": "WR",
+    "team": "Commanders",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3126486.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 81.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 670.0,
+      "receptions": 51.0,
+      "yardsPerReception": 13.13700008392334
+    }
+  },
+  {
+    "id": "16737",
+    "name": "Mike Evans",
+    "position": "WR",
+    "team": "Buccaneers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/16737.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 110.0,
+      "receivingTouchdowns": 11.0,
+      "receivingYards": 1004.0,
+      "receptions": 74.0,
+      "yardsPerReception": 13.567999839782715
+    }
+  },
+  {
+    "id": "3116165",
+    "name": "Chris Godwin Jr.",
+    "position": "WR",
+    "team": "Buccaneers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116165.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 62.0,
+      "receivingTouchdowns": 5.0,
+      "receivingYards": 576.0,
+      "receptions": 50.0,
+      "yardsPerReception": 11.520000457763672
+    }
+  },
+  {
+    "id": "4572786",
+    "name": "Dennis Houston",
+    "position": "WR",
+    "team": "Buccaneers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4572786.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 1.0
+    }
+  },
+  {
+    "id": "4596448",
+    "name": "Bucky Irving",
+    "position": "RB",
+    "team": "Buccaneers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596448.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 207.0,
+      "rushingTouchdowns": 8.0,
+      "rushingYards": 1122.0,
+      "rushingYardsPerGame": 66.0,
+      "yardsPerRushAttempt": 5.420000076293945
+    }
+  },
+  {
+    "id": "5097554",
+    "name": "Kameron Johnson",
+    "position": "WR",
+    "team": "Buccaneers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/5097554.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 1.0
+    }
+  },
+  {
+    "id": "3052587",
+    "name": "Baker Mayfield",
+    "position": "QB",
+    "team": "Buccaneers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3052587.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 71.40399932861328,
+      "completions": 407.0,
+      "interceptions": 16.0,
+      "passingTouchdowns": 41.0,
+      "passingYards": 4500.0,
+      "QBRating": 106.76200103759766
+    }
+  },
+  {
+    "id": "4430834",
+    "name": "Jalen McMillan",
+    "position": "WR",
+    "team": "Buccaneers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430834.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 58.0,
+      "receivingTouchdowns": 8.0,
+      "receivingYards": 461.0,
+      "receptions": 37.0,
+      "yardsPerReception": 12.458999633789062
+    }
+  },
+  {
+    "id": "2976592",
+    "name": "Sterling Shepard",
+    "position": "WR",
+    "team": "Buccaneers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2976592.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 51.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 334.0,
+      "receptions": 32.0,
+      "yardsPerReception": 10.437999725341797
+    }
+  },
+  {
+    "id": "4430871",
+    "name": "Sean Tucker",
+    "position": "RB",
+    "team": "Buccaneers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430871.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 50.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 308.0,
+      "rushingYardsPerGame": 18.117647171020508,
+      "yardsPerRushAttempt": 6.159999847412109
+    }
+  },
+  {
+    "id": "4697815",
+    "name": "Rachaad White",
+    "position": "RB",
+    "team": "Buccaneers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4697815.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 144.0,
+      "rushingTouchdowns": 3.0,
+      "rushingYards": 613.0,
+      "rushingYardsPerGame": 38.3125,
+      "yardsPerRushAttempt": 4.256999969482422
+    }
+  },
+  {
+    "id": "4569156",
+    "name": "Michael Wiley",
+    "position": "RB",
+    "team": "Buccaneers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569156.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 17.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 67.0,
+      "rushingYardsPerGame": 22.33333396911621,
+      "yardsPerRushAttempt": 3.940999984741211
+    }
+  },
+  {
+    "id": "4249616",
+    "name": "Owen Wright",
+    "position": "RB",
+    "team": "Buccaneers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4249616.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 18.0,
+      "rushingYards": 52.0,
+      "rushingYardsPerGame": 17.33333396911621,
+      "yardsPerRushAttempt": 2.8889999389648438
+    }
+  },
+  {
+    "id": "4678008",
+    "name": "Jonathon Brooks",
+    "position": "RB",
+    "team": "Panthers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4678008.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 9.0,
+      "rushingYards": 22.0,
+      "rushingYardsPerGame": 7.333333492279053,
+      "yardsPerRushAttempt": 2.444000005722046
+    }
+  },
+  {
+    "id": "3929637",
+    "name": "Dan Chisena",
+    "position": "WR",
+    "team": "Panthers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3929637.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 4.0,
+      "receivingYards": 37.0,
+      "receptions": 3.0,
+      "yardsPerReception": 12.333000183105469
+    }
+  },
+  {
+    "id": "4695883",
+    "name": "Jalen Coker",
+    "position": "WR",
+    "team": "Panthers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4695883.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 46.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 478.0,
+      "receptions": 32.0,
+      "yardsPerReception": 14.937999725341797
+    }
+  },
+  {
+    "id": "14012",
+    "name": "Andy Dalton",
+    "position": "QB",
+    "team": "Panthers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/14012.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 66.25,
+      "completions": 106.0,
+      "interceptions": 6.0,
+      "passingTouchdowns": 7.0,
+      "passingYards": 989.0,
+      "QBRating": 82.00499725341797
+    }
+  },
+  {
+    "id": "4038815",
+    "name": "Rico Dowdle",
+    "position": "RB",
+    "team": "Panthers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4038815.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 235.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 1079.0,
+      "rushingYardsPerGame": 67.4375,
+      "yardsPerRushAttempt": 4.591000080108643
+    }
+  },
+  {
+    "id": "4241416",
+    "name": "Chuba Hubbard",
+    "position": "RB",
+    "team": "Panthers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241416.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 250.0,
+      "rushingTouchdowns": 10.0,
+      "rushingYards": 1195.0,
+      "rushingYardsPerGame": 79.66666412353516,
+      "yardsPerRushAttempt": 4.78000020980835
+    }
+  },
+  {
+    "id": "4430034",
+    "name": "Xavier Legette",
+    "position": "WR",
+    "team": "Panthers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430034.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 84.0,
+      "receivingTouchdowns": 4.0,
+      "receivingYards": 497.0,
+      "receptions": 49.0,
+      "yardsPerReception": 10.142999649047852
+    }
+  },
+  {
+    "id": "4212909",
+    "name": "David Moore",
+    "position": "WR",
+    "team": "Panthers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4212909.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 57.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 351.0,
+      "receptions": 32.0,
+      "yardsPerReception": 10.968999862670898
+    }
+  },
+  {
+    "id": "4428532",
+    "name": "Ainias Smith",
+    "position": "WR",
+    "team": "Panthers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428532.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 9.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 41.0,
+      "receptions": 7.0,
+      "yardsPerReception": 5.85699987411499
+    }
+  },
+  {
+    "id": "4360763",
+    "name": "Brycen Tremayne",
+    "position": "WR",
+    "team": "Panthers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360763.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 1.0,
+      "receivingYards": -2.0,
+      "receptions": 1.0,
+      "yardsPerReception": -2.0
+    }
+  },
+  {
+    "id": "4685720",
+    "name": "Bryce Young",
+    "position": "QB",
+    "team": "Panthers",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685720.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 60.9379997253418,
+      "completions": 234.0,
+      "interceptions": 9.0,
+      "passingTouchdowns": 15.0,
+      "passingYards": 2403.0,
+      "QBRating": 82.19400024414062
+    }
+  },
+  {
+    "id": "4362260",
+    "name": "Carter Bradley",
+    "position": "QB",
+    "team": "Jaguars",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362260.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 50.0,
+      "completions": 17.0,
+      "interceptions": 1.0,
+      "passingTouchdowns": 1.0,
+      "passingYards": 225.0,
+      "QBRating": 68.87300109863281
+    }
+  },
+  {
+    "id": "4361577",
+    "name": "Dyami Brown",
+    "position": "WR",
+    "team": "Jaguars",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361577.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 40.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 308.0,
+      "receptions": 30.0,
+      "yardsPerReception": 10.267000198364258
+    }
+  },
+  {
+    "id": "4240631",
+    "name": "DeeJay Dallas",
+    "position": "RB",
+    "team": "Jaguars",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240631.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 9.0,
+      "rushingYards": 49.0,
+      "rushingYardsPerGame": 2.882352828979492,
+      "yardsPerRushAttempt": 5.443999767303467
+    }
+  },
+  {
+    "id": "4239996",
+    "name": "Travis Etienne Jr.",
+    "position": "RB",
+    "team": "Jaguars",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4239996.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 150.0,
+      "rushingTouchdowns": 2.0,
+      "rushingYards": 558.0,
+      "rushingYardsPerGame": 37.20000076293945,
+      "yardsPerRushAttempt": 3.7200000286102295
+    }
+  },
+  {
+    "id": "4245131",
+    "name": "Tim Jones",
+    "position": "WR",
+    "team": "Jaguars",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4245131.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 5.0,
+      "receivingYards": 41.0,
+      "receptions": 3.0,
+      "yardsPerReception": 13.666999816894531
+    }
+  },
+  {
+    "id": "4360310",
+    "name": "Trevor Lawrence",
+    "position": "QB",
+    "team": "Jaguars",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360310.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 60.5629997253418,
+      "completions": 172.0,
+      "interceptions": 7.0,
+      "passingTouchdowns": 11.0,
+      "passingYards": 2045.0,
+      "QBRating": 85.1969985961914
+    }
+  },
+  {
+    "id": "3916433",
+    "name": "Jakobi Meyers",
+    "position": "WR",
+    "team": "Jaguars",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3916433.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 129.0,
+      "receivingTouchdowns": 4.0,
+      "receivingYards": 1027.0,
+      "receptions": 87.0,
+      "yardsPerReception": 11.805000305175781
+    }
+  },
+  {
+    "id": "3059989",
+    "name": "Nick Mullens",
+    "position": "QB",
+    "team": "Jaguars",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3059989.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 100.0,
+      "completions": 2.0,
+      "passingYards": 38.0,
+      "QBRating": 118.75
+    }
+  },
+  {
+    "id": "3134353",
+    "name": "Tim Patrick",
+    "position": "WR",
+    "team": "Jaguars",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3134353.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 44.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 394.0,
+      "receptions": 33.0,
+      "yardsPerReception": 11.939000129699707
+    }
+  },
+  {
+    "id": "4432773",
+    "name": "Brian Thomas Jr.",
+    "position": "WR",
+    "team": "Jaguars",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432773.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 133.0,
+      "receivingTouchdowns": 10.0,
+      "receivingYards": 1282.0,
+      "receptions": 87.0,
+      "yardsPerReception": 14.736000061035156
+    }
+  },
+  {
+    "id": "4244856",
+    "name": "Austin Trammell",
+    "position": "WR",
+    "team": "Jaguars",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4244856.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 3.0,
+      "receivingYards": 40.0,
+      "receptions": 2.0,
+      "yardsPerReception": 20.0
+    }
+  },
+  {
+    "id": "4432620",
+    "name": "Parker Washington",
+    "position": "WR",
+    "team": "Jaguars",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432620.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 51.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 390.0,
+      "receptions": 32.0,
+      "yardsPerReception": 12.187999725341797
+    }
+  },
+  {
+    "id": "4690013",
+    "name": "Rasheen Ali",
+    "position": "RB",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4690013.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 10.0,
+      "rushingYards": 31.0,
+      "rushingYardsPerGame": 5.166666507720947,
+      "yardsPerRushAttempt": 3.0999999046325684
+    }
+  },
+  {
+    "id": "4360939",
+    "name": "Rashod Bateman",
+    "position": "WR",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360939.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 72.0,
+      "receivingTouchdowns": 9.0,
+      "receivingYards": 756.0,
+      "receptions": 45.0,
+      "yardsPerReception": 16.799999237060547
+    }
+  },
+  {
+    "id": "4429615",
+    "name": "Zay Flowers",
+    "position": "WR",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429615.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 116.0,
+      "receivingTouchdowns": 4.0,
+      "receivingYards": 1059.0,
+      "receptions": 74.0,
+      "yardsPerReception": 14.310999870300293
+    }
+  },
+  {
+    "id": "3043078",
+    "name": "Derrick Henry",
+    "position": "RB",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3043078.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 325.0,
+      "rushingTouchdowns": 16.0,
+      "rushingYards": 1921.0,
+      "rushingYardsPerGame": 113.0,
+      "yardsPerRushAttempt": 5.910999774932861
+    }
+  },
+  {
+    "id": "4038441",
+    "name": "Justice Hill",
+    "position": "RB",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4038441.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 47.0,
+      "rushingTouchdowns": 1.0,
+      "rushingYards": 228.0,
+      "rushingYardsPerGame": 15.199999809265137,
+      "yardsPerRushAttempt": 4.85099983215332
+    }
+  },
+  {
+    "id": "15795",
+    "name": "DeAndre Hopkins",
+    "position": "WR",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/15795.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 80.0,
+      "receivingTouchdowns": 5.0,
+      "receivingYards": 610.0,
+      "receptions": 56.0,
+      "yardsPerReception": 10.892999649047852
+    }
+  },
+  {
+    "id": "4035671",
+    "name": "Tyler Huntley",
+    "position": "QB",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035671.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 64.66200256347656,
+      "completions": 86.0,
+      "interceptions": 3.0,
+      "passingTouchdowns": 3.0,
+      "passingYards": 829.0,
+      "QBRating": 80.05999755859375
+    }
+  },
+  {
+    "id": "3916387",
+    "name": "Lamar Jackson",
+    "position": "QB",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3916387.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 66.66699981689453,
+      "completions": 316.0,
+      "interceptions": 4.0,
+      "passingTouchdowns": 41.0,
+      "passingYards": 4172.0,
+      "QBRating": 119.62899780273438
+    }
+  },
+  {
+    "id": "4426479",
+    "name": "Cornelius Johnson",
+    "position": "WR",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426479.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 9.0,
+      "receivingYards": 34.0,
+      "receptions": 3.0,
+      "yardsPerReception": 11.333000183105469
+    }
+  },
+  {
+    "id": "4596334",
+    "name": "Keaton Mitchell",
+    "position": "RB",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4596334.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 15.0,
+      "rushingYards": 30.0,
+      "rushingYardsPerGame": 6.0,
+      "yardsPerRushAttempt": 2.0
+    }
+  },
+  {
+    "id": "2972515",
+    "name": "Cooper Rush",
+    "position": "QB",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2972515.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 60.7140007019043,
+      "completions": 187.0,
+      "interceptions": 5.0,
+      "passingTouchdowns": 12.0,
+      "passingYards": 1844.0,
+      "QBRating": 83.84700012207031
+    }
+  },
+  {
+    "id": "4428763",
+    "name": "Dayton Wade",
+    "position": "WR",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428763.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 12.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 99.0,
+      "receptions": 7.0,
+      "yardsPerReception": 14.142999649047852
+    }
+  },
+  {
+    "id": "4696882",
+    "name": "Devontez Walker",
+    "position": "WR",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4696882.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 3.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 21.0,
+      "receptions": 1.0,
+      "yardsPerReception": 21.0
+    }
+  },
+  {
+    "id": "4241424",
+    "name": "Tylan Wallace",
+    "position": "WR",
+    "team": "Ravens",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241424.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 12.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 193.0,
+      "receptions": 11.0,
+      "yardsPerReception": 17.545000076293945
+    }
+  },
+  {
+    "id": "3123075",
+    "name": "Braxton Berrios",
+    "position": "WR",
+    "team": "Texans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3123075.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 4.0
+    }
+  },
+  {
+    "id": "4373273",
+    "name": "British Brooks",
+    "position": "RB",
+    "team": "Texans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373273.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 1.0,
+      "rushingYards": 2.0,
+      "rushingYardsPerGame": 0.4000000059604645,
+      "yardsPerRushAttempt": 2.0
+    }
+  },
+  {
+    "id": "3128720",
+    "name": "Nick Chubb",
+    "position": "RB",
+    "team": "Texans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3128720.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 102.0,
+      "rushingTouchdowns": 3.0,
+      "rushingYards": 332.0,
+      "rushingYardsPerGame": 41.5,
+      "yardsPerRushAttempt": 3.255000114440918
+    }
+  },
+  {
+    "id": "4258173",
+    "name": "Nico Collins",
+    "position": "WR",
+    "team": "Texans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4258173.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 99.0,
+      "receivingTouchdowns": 7.0,
+      "receivingYards": 1006.0,
+      "receptions": 68.0,
+      "yardsPerReception": 14.793999671936035
+    }
+  },
+  {
+    "id": "4366031",
+    "name": "Tank Dell",
+    "position": "WR",
+    "team": "Texans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4366031.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 81.0,
+      "receivingTouchdowns": 3.0,
+      "receivingYards": 667.0,
+      "receptions": 51.0,
+      "yardsPerReception": 13.07800006866455
+    }
+  },
+  {
+    "id": "4686422",
+    "name": "Xavier Hutchinson",
+    "position": "WR",
+    "team": "Texans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4686422.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 26.0,
+      "receivingYards": 117.0,
+      "receptions": 12.0,
+      "yardsPerReception": 9.75
+    }
+  },
+  {
+    "id": "4429939",
+    "name": "Jawhar Jordan",
+    "position": "RB",
+    "team": "Texans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429939.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 21.0,
+      "rushingYards": 55.0,
+      "rushingYardsPerGame": 13.75,
+      "yardsPerRushAttempt": 2.61899995803833
+    }
+  },
+  {
+    "id": "3895856",
+    "name": "Christian Kirk",
+    "position": "WR",
+    "team": "Texans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3895856.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 47.0,
+      "receivingTouchdowns": 1.0,
+      "receivingYards": 379.0,
+      "receptions": 27.0,
+      "yardsPerReception": 14.036999702453613
+    }
+  },
+  {
+    "id": "4242546",
+    "name": "Davis Mills",
+    "position": "QB",
+    "team": "Texans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242546.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 55.555999755859375,
+      "completions": 20.0,
+      "passingYards": 212.0,
+      "QBRating": 72.91699981689453
+    }
+  },
+  {
+    "id": "3116385",
+    "name": "Joe Mixon",
+    "position": "RB",
+    "team": "Texans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116385.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 245.0,
+      "rushingTouchdowns": 11.0,
+      "rushingYards": 1016.0,
+      "rushingYardsPerGame": 72.57142639160156,
+      "yardsPerRushAttempt": 4.146999835968018
+    }
+  },
+  {
+    "id": "2983509",
+    "name": "Dare Ogunbowale",
+    "position": "RB",
+    "team": "Texans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2983509.png",
+    "season": 2024,
+    "stats": {
+      "rushingAttempts": 30.0,
+      "rushingYards": 112.0,
+      "rushingYardsPerGame": 6.588235378265381,
+      "yardsPerRushAttempt": 3.7330000400543213
+    }
+  },
+  {
+    "id": "4432577",
+    "name": "C.J. Stroud",
+    "position": "QB",
+    "team": "Texans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432577.png",
+    "season": 2024,
+    "stats": {
+      "completionPct": 63.15800094604492,
+      "completions": 336.0,
+      "interceptions": 12.0,
+      "passingTouchdowns": 20.0,
+      "passingYards": 3727.0,
+      "QBRating": 87.03800201416016
+    }
+  },
+  {
+    "id": "3118892",
+    "name": "Justin Watson",
+    "position": "WR",
+    "team": "Texans",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3118892.png",
+    "season": 2024,
+    "stats": {
+      "receivingTargets": 32.0,
+      "receivingTouchdowns": 2.0,
+      "receivingYards": 289.0,
+      "receptions": 22.0,
+      "yardsPerReception": 13.13599967956543
+    }
+  }
+]
