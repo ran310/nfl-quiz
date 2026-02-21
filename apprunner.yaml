@@ -3,8 +3,12 @@ runtime: python311
 build:
   commands:
     build:
-      - python -m pip install --no-cache-dir -r requirements.txt
+      - echo "Build step complete ... nothing to do here"
 run:
-  command: "gunicorn --bind 0.0.0.0:8080 app:app"
+  pre-run:
+    - echo "Pre-run step started"
+    - pip3 install --no-cache-dir -r requirements.txt
+    - echo "Pre-run step complete"
+  command: "python3 -m gunicorn --bind 0.0.0.0:8080 app:app"
   network:
     port: 8080
