@@ -81,7 +81,7 @@ STAT_QUESTION_WORD = {
     "yardsPerReception": "higher",
 }
 
-SEASONS = [2024]
+SEASONS = [2023, 2024, 2025]
 
 
 def _get_headshot_url(player):
