@@ -2,6 +2,12 @@
    NFL Stats Showdown — Quiz Interactivity
    ============================================================ */
 
+/** Set in quiz.html from request.script_root (e.g. "/nfl-quiz" or ""). */
+const APP_ROOT =
+    typeof window !== "undefined" && window.__APP_ROOT__ != null && window.__APP_ROOT__ !== ""
+        ? window.__APP_ROOT__
+        : "";
+
 let currentQuestion = 0;
 let score = 0;
 let isAnswering = false;
@@ -31,10 +37,10 @@ async function loadQuestion(n) {
     document.getElementById("question-text").textContent = "Loading...";
 
     try {
-        const resp = await fetch(`/api/question/${n}`);
+        const resp = await fetch(`${APP_ROOT}/api/question/${n}`);
         if (!resp.ok) {
             // Quiz might be over or invalid
-            window.location.href = "/results";
+            window.location.href = `${APP_ROOT}/results`;
             return;
         }
         const data = await resp.json();
@@ -79,7 +85,7 @@ async function submitAnswer(choice) {
     card2.classList.add("disabled");
 
     try {
-        const resp = await fetch(`/api/answer/${currentQuestion}`, {
+        const resp = await fetch(`${APP_ROOT}/api/answer/${currentQuestion}`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ answer: choice }),
@@ -135,7 +141,7 @@ async function submitAnswer(choice) {
                 // Update progress to full
                 document.getElementById("progress-bar").style.width = "100%";
                 setTimeout(() => {
-                    window.location.href = "/results";
+                    window.location.href = `${APP_ROOT}/results`;
                 }, 300);
             } else {
                 loadQuestion(next);

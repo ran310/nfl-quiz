@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800;900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
     <div class="landing-container">
@@ -23,21 +23,21 @@
             <h2>Choose Your Challenge</h2>
             <p class="card-desc">How many questions can you handle?</p>
             <div class="mode-buttons">
-                <form method="POST" action="/quiz/start">
+                <form method="POST" action="{{ url_for('quiz_start') }}">
                     <input type="hidden" name="num_questions" value="10">
                     <button type="submit" class="mode-btn">
                         <span class="mode-num">10</span>
                         <span class="mode-label">Quick Game</span>
                     </button>
                 </form>
-                <form method="POST" action="/quiz/start">
+                <form method="POST" action="{{ url_for('quiz_start') }}">
                     <input type="hidden" name="num_questions" value="15">
                     <button type="submit" class="mode-btn mode-btn-mid">
                         <span class="mode-num">15</span>
                         <span class="mode-label">Standard</span>
                     </button>
                 </form>
-                <form method="POST" action="/quiz/start">
+                <form method="POST" action="{{ url_for('quiz_start') }}">
                     <input type="hidden" name="num_questions" value="25">
                     <button type="submit" class="mode-btn mode-btn-long">
                         <span class="mode-num">25</span>

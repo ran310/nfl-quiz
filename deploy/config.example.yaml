@@ -1,0 +1,13 @@
+# Copy to config.yaml and adjust (optional for local scripts; GitHub Actions uses stack outputs).
+aws:
+  region: us-east-1
+  # CloudFormation stack that owns the nginx EC2 host + artifact bucket
+  ec2_stack_name: AwsInfra-Ec2Nginx
+
+app:
+  # Must match aws-infra Ec2NginxStack (NFL_QUIZ_PATH_PREFIX)
+  application_root: /nfl-quiz
+
+s3:
+  # Object prefix for release tarballs
+  key_prefix: nfl-quiz/releases
