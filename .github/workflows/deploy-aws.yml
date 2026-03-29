@@ -66,13 +66,18 @@ jobs:
             --arg b "$BUCKET" \
             --arg k "$S3_KEY" \
             '{commands: ["echo \($b64) | base64 -d | bash -s \($b) \($k)"]}')
+          # CommandId is nested: API returns { "Command": { "CommandId": "..." } }
           CMD_ID=$(aws ssm send-command \
             --instance-ids "$INSTANCE_ID" \
             --document-name AWS-RunShellScript \
             --comment "nfl-quiz deploy ${GITHUB_SHA}" \
             --parameters "$PARAMS" \
-            --query CommandId \
+            --query 'Command.CommandId' \
             --output text)
+          if [[ -z "$CMD_ID" || "$CMD_ID" == "None" ]]; then
+            echo "ssm send-command did not return a CommandId (check IAM and SSM agent on the instance)."
+            exit 1
+          fi
           echo "Waiting for SSM command $CMD_ID..."
           for _ in $(seq 1 60); do
             STATUS=$(aws ssm get-command-invocation \
