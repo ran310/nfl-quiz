@@ -63,6 +63,48 @@ WantedBy=multi-user.target
 UNIT
 fi
 
+# Nginx must proxy /nfl-quiz/ → Gunicorn. Older hosts never got this from CDK user data; rewrite full vhost.
+PROJECT_NAME="${NFL_QUIZ_PROJECT_NAME:-learn-aws}"
+QUIZ_PATH="/nfl-quiz"
+NGINX_CONF="/etc/nginx/conf.d/${PROJECT_NAME}-apps.conf"
+mkdir -p /var/www/app1 /var/www/app2
+cat > "$NGINX_CONF" <<EOF
+server {
+    listen 80 default_server;
+    listen [::]:80 default_server;
+    server_name _;
+
+    location = ${QUIZ_PATH} {
+        return 301 ${QUIZ_PATH}/;
+    }
+
+    location ${QUIZ_PATH}/ {
+        proxy_pass http://127.0.0.1:8080/;
+        proxy_http_version 1.1;
+        proxy_set_header Host \$host;
+        proxy_set_header X-Real-IP \$remote_addr;
+        proxy_set_header X-Forwarded-For \$proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto \$scheme;
+        proxy_set_header X-Forwarded-Prefix ${QUIZ_PATH};
+    }
+
+    location /app1/ {
+        alias /var/www/app1/;
+        index index.html;
+    }
+    location /app2/ {
+        alias /var/www/app2/;
+        index index.html;
+    }
+    location = / {
+        default_type text/html;
+        return 200 "<html><body><h1>${PROJECT_NAME} nginx</h1><p><a href=\"${QUIZ_PATH}/\">${QUIZ_PATH}/</a> (nfl-quiz) &middot; <a href=\"/app1/\">/app1/</a> &middot; <a href=\"/app2/\">/app2/</a></p></body></html>";
+    }
+}
+EOF
+nginx -t
+systemctl reload nginx
+
 systemctl daemon-reload
 systemctl enable nfl-quiz
 systemctl restart nfl-quiz

@@ -43,6 +43,12 @@ aws ssm send-command --instance-ids "$IID" --document-name AWS-RunShellScript --
 
 After deploy, open stack output **`NflQuizUrl`** (or `http://<NginxElasticIp>/nfl-quiz/`).
 
+## `/` works but `/nfl-quiz/` returns 404
+
+The EC2 host is missing the nginx **`location /nfl-quiz/`** block (common if the instance predates CDK that added it). **`deploy/remote-install.sh`** now writes the full vhost (same as CDK) and **`nginx reload`** on every deploy. Re-run **Deploy to AWS** after pulling the latest script.
+
+If you use a non-default CDK `projectName` (not `learn-aws`), set `NFL_QUIZ_PROJECT_NAME` on the instance before install or extend the SSM deploy to export it (conf path is `/etc/nginx/conf.d/<projectName>-apps.conf`).
+
 ## `Unit file nfl-quiz.service does not exist`
 
 The deploy script now **creates** `/etc/systemd/system/nfl-quiz.service` if it is missing (instances created before CDK added user data never had it). Re-run **Deploy to AWS** after pulling the latest `deploy/remote-install.sh`.
