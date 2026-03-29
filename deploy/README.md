@@ -42,3 +42,15 @@ aws ssm send-command --instance-ids "$IID" --document-name AWS-RunShellScript --
 ## URLs
 
 After deploy, open stack output **`NflQuizUrl`** (or `http://<NginxElasticIp>/nfl-quiz/`).
+
+## `Unit file nfl-quiz.service does not exist`
+
+The deploy script now **creates** `/etc/systemd/system/nfl-quiz.service` if it is missing (instances created before CDK added user data never had it). Re-run **Deploy to AWS** after pulling the latest `deploy/remote-install.sh`.
+
+## `python3.11: command not found` on deploy
+
+The install script prefers **`python3.11`**, then falls back to **`python3`**. If the instance was created before CDK installed Python, run once (SSM or Session Manager):
+
+`sudo dnf install -y python3.11 python3.11-pip`
+
+—or redeploy **`AwsInfra-Ec2Nginx`** so current user data runs—then re-run the GitHub deploy.
