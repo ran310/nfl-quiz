@@ -1,6 +1,16 @@
 # nfl-quiz AWS deployment
 
-The app is served under **`/nfl-quiz/`** on the `AwsInfra-Ec2Nginx` host (nginx reverse proxy → Gunicorn on `127.0.0.1:8080`). Infrastructure (Elastic IP, S3 artifact bucket, nginx, systemd unit) lives in **`aws-experimentation/aws-infra`**.
+## Overview
+
+**nfl-quiz** is a small **NFL stats quiz** web app: players and seasons are compared in the browser, with questions driven from bundled data and the ESPN API stack (`pyespn`). It is a **toy project** meant for **learning AWS and deployment automation**, not production traffic or serious reliability targets.
+
+The live app is **hosted on AWS**: a single **EC2** instance (from a separate CDK repo) runs **nginx** as the front door and **Gunicorn** for the Python **Flask** app. **GitHub Actions** packages the repo, pushes artifacts to **S3**, and uses **Systems Manager (SSM)** to install and restart the app on the instance—so day-to-day work stays in code and config instead of the AWS console.
+
+This **`deploy/`** folder documents that path: IAM for CI, optional local deploy commands, and troubleshooting.
+
+---
+
+In production for this setup, the app is served under **`/nfl-quiz/`** on the **`AwsInfra-Ec2Nginx`** host (nginx reverse proxy → Gunicorn on `127.0.0.1:8080`). Shared infrastructure (VPC, Elastic IP, S3 artifact bucket, nginx, systemd) is defined in **`aws-experimentation/aws-infra`**.
 
 ## One-time: IAM for GitHub Actions (OIDC)
 
