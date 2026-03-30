@@ -28,14 +28,25 @@ jobs:
       - name: Resolve stack outputs
         id: stack
         run: |
+          # Must match CDK CfnOutput id in aws-infra Ec2NginxStack: Ec2NginxArtifactBucketName
           BUCKET=$(aws cloudformation describe-stacks \
             --stack-name "${EC2_STACK_NAME}" \
-            --query "Stacks[0].Outputs[?OutputKey=='NflQuizArtifactBucketName'].OutputValue" \
+            --query "Stacks[0].Outputs[?OutputKey=='Ec2NginxArtifactBucketName'].OutputValue" \
             --output text)
           IID=$(aws cloudformation describe-stacks \
             --stack-name "${EC2_STACK_NAME}" \
             --query "Stacks[0].Outputs[?OutputKey=='NginxInstanceId'].OutputValue" \
             --output text)
+          if [[ -z "$BUCKET" || "$BUCKET" == "None" ]]; then
+            echo "::error::Empty bucket output — check stack name, region, and that output Ec2NginxArtifactBucketName exists."
+            aws cloudformation describe-stacks --stack-name "${EC2_STACK_NAME}" \
+              --query "Stacks[0].Outputs[*].[OutputKey,OutputValue]" --output table || true
+            exit 1
+          fi
+          if [[ -z "$IID" || "$IID" == "None" ]]; then
+            echo "::error::Empty NginxInstanceId output."
+            exit 1
+          fi
           echo "bucket=${BUCKET}" >> "$GITHUB_OUTPUT"
           echo "instance_id=${IID}" >> "$GITHUB_OUTPUT"
 

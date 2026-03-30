@@ -17,7 +17,7 @@ In production for this setup, the app is served under **`/nfl-quiz/`** on the **
 Create an IAM role trusted by `token.actions.githubusercontent.com` for your repository, with a policy similar to:
 
 - `cloudformation:DescribeStacks` on `AwsInfra-Ec2Nginx` (or `*` for the account)
-- `s3:PutObject`, `s3:ListBucket` on the artifact bucket (name from stack output `NflQuizArtifactBucketName`)
+- `s3:PutObject`, `s3:ListBucket` on the artifact bucket (name from stack output `Ec2NginxArtifactBucketName`)
 - `ssm:SendCommand`, `ssm:GetCommandInvocation`, `ssm:ListCommandInvocations`, `ssm:DescribeInstanceInformation`
 
 Restrict `ssm:SendCommand` to instances tagged `Project=<your projectName>` if you use tags from CDK.
@@ -33,7 +33,7 @@ Set GitHub secret **`AWS_ROLE_TO_ASSUME`** to that role ARN. Set repository vari
 chmod +x deploy/remote-install.sh
 export AWS_REGION=us-east-1
 STACK=AwsInfra-Ec2Nginx
-BUCKET=$(aws cloudformation describe-stacks --stack-name "$STACK" --query "Stacks[0].Outputs[?OutputKey=='NflQuizArtifactBucketName'].OutputValue" --output text)
+BUCKET=$(aws cloudformation describe-stacks --stack-name "$STACK" --query "Stacks[0].Outputs[?OutputKey=='Ec2NginxArtifactBucketName'].OutputValue" --output text)
 IID=$(aws cloudformation describe-stacks --stack-name "$STACK" --query "Stacks[0].Outputs[?OutputKey=='NginxInstanceId'].OutputValue" --output text)
 KEY="nfl-quiz/releases/local-$(git rev-parse HEAD).tar.gz"
 git archive --format=tar.gz -o /tmp/nfl-quiz.tgz HEAD
