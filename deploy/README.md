@@ -55,9 +55,9 @@ After deploy, open stack output **`NflQuizUrl`** (or `http://<NginxElasticIp>/nf
 
 ## `/` works but `/nfl-quiz/` returns 404
 
-The EC2 host is missing the nginx **`location /nfl-quiz/`** block (common if the instance predates CDK that added it). **`deploy/remote-install.sh`** now writes the full vhost (same as CDK) and **`nginx reload`** on every deploy. Re-run **Deploy to AWS** after pulling the latest script.
+Nginx is defined only by **aws-infra** (`ec2-nginx-stack.ts` user data). The host is missing **`/nfl-quiz/`** routing if user data never ran or the config file was deleted. **Redeploy `AwsInfra-Ec2Nginx`**, or **replace** the instance, or restore **`/etc/nginx/conf.d/<projectName>-apps.conf`** from a fresh `cdk synth` / template, then **`sudo nginx -t && sudo systemctl reload nginx`**.
 
-If you use a non-default CDK `projectName` (not `learn-aws`), set `NFL_QUIZ_PROJECT_NAME` on the instance before install or extend the SSM deploy to export it (conf path is `/etc/nginx/conf.d/<projectName>-apps.conf`).
+If you use a non-default CDK **`projectName`**, the conf file is **`/etc/nginx/conf.d/<projectName>-apps.conf`**—keep **`projectName`** in sync when debugging.
 
 ## `Unit file nfl-quiz.service does not exist`
 
