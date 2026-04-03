@@ -21,10 +21,13 @@ fi
 "${VENV}/bin/pip" install --upgrade pip
 "${VENV}/bin/pip" install --no-cache-dir -r "${APP_DIR}/requirements.txt"
 
+# Must stay /nfl-quiz to match nginx (ec2-nginx-stack). Wrong or missing value → CSS/JS load from /static on wrong host.
 if [[ ! -f /etc/nfl-quiz.env ]]; then
   echo 'APPLICATION_ROOT=/nfl-quiz' > /etc/nfl-quiz.env
 elif ! grep -q '^APPLICATION_ROOT=' /etc/nfl-quiz.env 2>/dev/null; then
   echo 'APPLICATION_ROOT=/nfl-quiz' >> /etc/nfl-quiz.env
+else
+  sed -i 's|^APPLICATION_ROOT=.*|APPLICATION_ROOT=/nfl-quiz|' /etc/nfl-quiz.env
 fi
 if ! grep -q '^SECRET_KEY=' /etc/nfl-quiz.env 2>/dev/null; then
   echo "SECRET_KEY=$(openssl rand -hex 32)" >> /etc/nfl-quiz.env
