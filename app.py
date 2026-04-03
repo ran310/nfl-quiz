@@ -4,7 +4,7 @@ app.py — Flask web server for the NFL Stats Quiz Game.
 
 import os
 import secrets
-from flask import Flask, render_template, request, session, jsonify, redirect, url_for
+from flask import Flask, render_template, request, session, jsonify, redirect, url_for as flask_url_for
 from werkzeug.middleware.proxy_fix import ProxyFix
 
 from data_loader import load_data
@@ -27,6 +27,25 @@ def create_app():
         x_host=1,
         x_prefix=1,
     )
+
+    app_root = (os.environ.get("APPLICATION_ROOT") or "").strip().rstrip("/") or ""
+
+    def prefixed_url_for(endpoint, **values):
+        """Prefix routes with APPLICATION_ROOT when reverse-proxy headers omit script root."""
+        path = flask_url_for(endpoint, **values)
+        if not app_root:
+            return path
+        if path in ("/", ""):
+            return f"{app_root}/"
+        if path.startswith(f"{app_root}/") or path == app_root:
+            return path
+        if path.startswith("/"):
+            return f"{app_root}{path}"
+        return path
+
+    @app.context_processor
+    def inject_prefixed_url_for():
+        return dict(url_for=prefixed_url_for, nfl_quiz_app_root=app_root)
 
     # Load player data at startup
     player_data_cache = None
@@ -59,13 +78,13 @@ def create_app():
         session["total"] = len(questions)
         session["answers"] = []
 
-        return redirect(url_for("quiz"))
+        return redirect(prefixed_url_for("quiz"))
 
     @app.route("/quiz")
     def quiz():
         """Render the quiz page."""
         if "questions" not in session:
-            return redirect(url_for("index"))
+            return redirect(prefixed_url_for("index"))
         return render_template(
             "quiz.html",
             total=session["total"],
@@ -130,7 +149,7 @@ def create_app():
     def results():
         """Show final results."""
         if "questions" not in session:
-            return redirect(url_for("index"))
+            return redirect(prefixed_url_for("index"))
 
         score = session.get("score", 0)
         total = session.get("total", 0)

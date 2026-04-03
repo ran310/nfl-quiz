@@ -78,7 +78,7 @@
     </div>
 
     <script>
-        window.__APP_ROOT__ = {{ request.script_root|tojson }};
+        window.__APP_ROOT__ = {{ (nfl_quiz_app_root or request.script_root)|tojson }};
         const TOTAL_QUESTIONS = {{ total }};
     </script>
     <script src="{{ url_for('static', filename='script.js') }}"></script>
