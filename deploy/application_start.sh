@@ -6,6 +6,7 @@ cat > /etc/systemd/system/nfl-quiz.service <<'UNIT'
 [Unit]
 Description=NFL Quiz (Gunicorn)
 After=network.target
+ConditionPathExists=/opt/nfl-quiz/venv/bin/gunicorn
 
 [Service]
 Type=simple
@@ -15,7 +16,6 @@ EnvironmentFile=/etc/nfl-quiz.env
 ExecStart=/opt/nfl-quiz/venv/bin/gunicorn --bind 127.0.0.1:8080 app:app
 Restart=on-failure
 RestartSec=5
-ConditionPathExists=/opt/nfl-quiz/venv/bin/gunicorn
 
 [Install]
 WantedBy=multi-user.target
