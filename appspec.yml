@@ -1,0 +1,28 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /opt/nfl-quiz/app
+    overwrite: true
+permissions:
+  - object: /opt/nfl-quiz/app/deploy
+    mode: "0755"
+    type:
+      - file
+hooks:
+  ApplicationStop:
+    - location: deploy/application_stop.sh
+      timeout: 60
+      runas: root
+  BeforeInstall:
+    - location: deploy/before_install.sh
+      timeout: 120
+      runas: root
+  AfterInstall:
+    - location: deploy/after_install.sh
+      timeout: 300
+      runas: root
+  ApplicationStart:
+    - location: deploy/application_start.sh
+      timeout: 120
+      runas: root
